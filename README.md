@@ -11,7 +11,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
 </p>
 
-A **self-contained Model Context Protocol (MCP) server** that enables AI assistants to access fascinating facts, trivia, and mathematical properties about numbers. Ships with a rich bundled dataset — no external API dependencies.
+A **self-contained Model Context Protocol (MCP) server** that enables AI assistants to access fascinating facts, trivia, and mathematical properties about numbers.
 
 ## Monorepo Structure
 
@@ -29,4 +29,4 @@ A **self-contained Model Context Protocol (MCP) server** that enables AI assista
 
 ## License
 
-MIT
+[MIT](LICENSE)

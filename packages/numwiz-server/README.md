@@ -4,7 +4,7 @@
 
 <h1 align="center">NumWiz MCP Server</h1>
 
-Self-contained MCP server providing 8 tools for number facts, trivia, and mathematical properties. Ships with a rich bundled dataset covering 150+ trivia numbers, 150+ math numbers, 366 dates (4-5 facts each including Indian history), and 200+ historical years — no external API required.
+MCP server providing 8 tools for number facts, trivia, and mathematical properties and dates (including Indian history), and 200+ historical years.
 
 ## Tools
 
@@ -163,4 +163,4 @@ Or install the **NumWiz MCP Server** extension from the VS Code Marketplace for 
 
 ## License
 
-MIT
+[MIT](LICENSE)

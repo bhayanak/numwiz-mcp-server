@@ -4,7 +4,7 @@
 
 <h1 align="center">NumWiz MCP Server — VS Code Extension</h1>
 
-VS Code extension that registers the NumWiz MCP Server, making number trivia, math facts, date facts, and year facts available to AI assistants like GitHub Copilot. Self-contained with a bundled dataset — no external API or configuration needed.
+VS Code extension that registers the NumWiz MCP Server, making number trivia, math facts, date facts, and year facts available to AI assistants like GitHub Copilot.
 
 ## Available Tools
 
@@ -41,12 +41,6 @@ Copilot will automatically use the NumWiz MCP tools to answer.
 
 Install from the VS Code Marketplace, or build locally:
 
-```bash
-cd packages/numwiz-vscode-extension
-pnpm install
-pnpm run package
-# Then install the generated .vsix file
-```
 
 ## Troubleshooting
 
@@ -56,4 +50,4 @@ pnpm run package
 
 ## License
 
-MIT
+[MIT](LICENSE)
