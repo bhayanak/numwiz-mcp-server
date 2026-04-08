@@ -1,0 +1,873 @@
+export const triviaFacts: Record<string, string[]> = {
+  '0': [
+    '0 is the atomic number of no known element on the periodic table',
+    '0 is the value of false in most programming languages',
+    '0 is the number of calories in water',
+    '0 is the jersey number retired by the NHL in honor of no specific player but reserved for future use',
+  ],
+  '1': [
+    '1 is the atomic number of hydrogen, the lightest and most abundant element in the universe',
+    '1 is the number of rings to rule them all in J.R.R. Tolkien\'s Lord of the Rings',
+    '1 is the number of bones in the human stapes, the smallest bone in the body',
+    '1 is the loneliest number according to the 1969 hit song by Harry Nilsson',
+  ],
+  '2': [
+    '2 is the number of hydrogen atoms in a water molecule',
+    '2 is the number of strands in a DNA double helix',
+    '2 is the only even prime number',
+    '2 is the number of players on a beach volleyball team',
+  ],
+  '3': [
+    '3 is the number of primary colors in both the RGB and RYB color models',
+    '3 is the number of bones in each human ear\'s ossicle chain',
+    '3 is the number of laws of motion formulated by Isaac Newton',
+    '3 is the typical number of rings in a circus',
+  ],
+  '4': [
+    '4 is the number of chambers in the human heart',
+    '4 is the number of fundamental forces in physics: gravity, electromagnetism, strong nuclear, and weak nuclear',
+    '4 is the number of strings on a ukulele',
+    '4 is the number of ghosts in the original Pac-Man: Blinky, Pinky, Inky, and Clyde',
+  ],
+  '5': [
+    '5 is the number of rings on the Olympic flag, representing the five continents',
+    '5 is the number of Great Lakes in North America',
+    '5 is the number of platonic solids in geometry',
+    '5 is the number of vowels in the English alphabet (A, E, I, O, U)',
+  ],
+  '6': [
+    '6 is the number of legs on all insects',
+    '6 is the number of sides on a standard die',
+    '6 is the number of strings on a standard guitar',
+    '6 is the jersey number of basketball legend Bill Russell',
+  ],
+  '7': [
+    '7 is the number of continents on Earth',
+    '7 is the number of colors in the visible light spectrum (rainbow)',
+    '7 is the number of notes in a major musical scale',
+    '7 is considered the luckiest number in many Western cultures',
+    '7 is the number of Harry Potter novels by J.K. Rowling',
+  ],
+  '8': [
+    '8 is the number of tentacles on an octopus',
+    '8 is the number of planets in our solar system since Pluto\'s reclassification in 2006',
+    '8 is considered the luckiest number in Chinese culture',
+    '8 is the number of bits in a byte',
+  ],
+  '9': [
+    '9 is the number of innings in a standard baseball game',
+    '9 is the number of justices on the United States Supreme Court',
+    '9 is the number of players on each side in a baseball team on the field',
+    '9 is the number of symphonies composed by Ludwig van Beethoven',
+  ],
+  '10': [
+    '10 is the number of digits in the Hindu-Arabic numeral system',
+    '10 is the highest score possible in Olympic gymnastics and diving',
+    '10 is the atomic number of neon',
+    '10 is the number of pins in standard bowling',
+  ],
+  '11': [
+    '11 is the number of players on a soccer (football) team',
+    '11 is the number of players on an American football team on the field',
+    '11 is the number associated with the Armistice that ended World War I (11th hour, 11th day, 11th month)',
+    '11 is the number of spaceflight missions in the Apollo program that carried crews',
+  ],
+  '12': [
+    '12 is the number of months in a year',
+    '12 is the number of signs in the Western zodiac',
+    '12 is the number of face cards in a standard deck of playing cards',
+    '12 is the number of pairs of ribs in the human body',
+    '12 is the number of semitones in a musical octave',
+  ],
+  '13': [
+    '13 is the number of stripes on the United States flag',
+    '13 is widely considered an unlucky number in Western superstition',
+    '13 is the number of original colonies that formed the United States',
+    '13 is the number of cards in each suit of a standard playing card deck',
+  ],
+  '14': [
+    '14 is the number of lines in a sonnet',
+    '14 is the atomic number of silicon, the element that powers modern computing',
+    '14 is the number of days in a fortnight',
+    '14 is the number of peaks above 8,000 meters in the world',
+  ],
+  '15': [
+    '15 is the number of players on a rugby union team',
+    '15 is the number of tiles in a classic sliding puzzle',
+    '15 is the number of minutes in a quarter of an hour',
+    '15 is the sum of the first five natural numbers (1+2+3+4+5)',
+  ],
+  '16': [
+    '16 is the number of ounces in a pound in the avoirdupois system',
+    '16 is the minimum driving age in most US states',
+    '16 is the number of pawns at the start of a chess game (8 per side)',
+    '16 is the base of the hexadecimal number system used in computing',
+  ],
+  '17': [
+    '17 is the number of syllables in a haiku (5+7+5)',
+    '17 is the minimum age to enlist in the US military with parental consent',
+    '17 is the number of the famous magazine aimed at teenage girls',
+    '17 is the number of goals Wayne Gretzky scored in the 1981-82 NHL All-Star game season opener record',
+  ],
+  '18': [
+    '18 is the voting age in most democracies around the world',
+    '18 is the number of holes on a standard golf course',
+    '18 is the number of chapters in the Bhagavad Gita',
+    '18 is the atomic number of argon',
+  ],
+  '19': [
+    '19 is the atomic number of potassium',
+    '19 is the number of the COVID-19 pandemic (named for the year 2019)',
+    '19 is the last year of teenage life',
+    '19 is the number of the Amendment that gave American women the right to vote',
+  ],
+  '20': [
+    '20 is the number of baby teeth in a full set of human deciduous teeth',
+    '20 is the number of faces on an icosahedron',
+    '20 is the base of the Mayan numeral system (vigesimal)',
+    '20 is the number of amino acids that make up proteins in living organisms',
+  ],
+  '21': [
+    '21 is the legal drinking age in the United States',
+    '21 is the number of spots on a standard 6-sided die (1+2+3+4+5+6)',
+    '21 is the name of the best-selling album by Adele',
+    '21 is the blackjack number — the target score in the card game',
+  ],
+  '22': [
+    '22 is the number of players on the field during a soccer match (11 per team)',
+    '22 is the number of letters in the Hebrew alphabet',
+    '22 is the number of Major Arcana cards in a tarot deck',
+    '22 is the catch in Joseph Heller\'s novel Catch-22',
+  ],
+  '23': [
+    '23 is the jersey number most associated with Michael Jordan',
+    '23 is the number of pairs of chromosomes in a human cell',
+    '23 is the number of times Julius Caesar was reportedly stabbed',
+    '23 is the atomic number of vanadium',
+  ],
+  '24': [
+    '24 is the number of hours in a day',
+    '24 is the number of carats in pure gold',
+    '24 is the jersey number of the late basketball star Kobe Bryant',
+    '24 is the number of major and minor keys in Western tonal music',
+  ],
+  '25': [
+    '25 is the number of cents in a US quarter dollar',
+    '25 is the age at which car rental rates typically decrease',
+    '25 is the name of another best-selling album by Adele',
+    '25 is the atomic number of manganese',
+  ],
+  '26': [
+    '26 is the number of letters in the English alphabet',
+    '26 is the atomic number of iron, the most common element on Earth by mass',
+    '26 is the number of miles (and 385 yards) in a marathon',
+    '26 is the number of red cards in a standard deck of playing cards',
+  ],
+  '27': [
+    '27 is the age at which many famous musicians have died, known as the 27 Club (Hendrix, Joplin, Morrison, Cobain, Winehouse)',
+    '27 is the number of books in the New Testament',
+    '27 is the total number of bones in one human hand',
+    '27 is the number of cubes in a 3x3x3 Rubik\'s Cube',
+  ],
+  '28': [
+    '28 is the number of days in the shortest month, February (in non-leap years)',
+    '28 is the number of dominoes in a standard double-six set',
+    '28 is the second perfect number (1+2+4+7+14=28)',
+    '28 is the atomic number of nickel',
+  ],
+  '29': [
+    '29 is the number of days in February during a leap year',
+    '29 is the atomic number of copper',
+    '29 is the number of the Amendment that banned alcohol prohibition in the US (21st, not 29th — actually 29 is the day count of leap February)',
+    '29 is approximately the number of days in a lunar month (29.5)',
+  ],
+  '30': [
+    '30 is the traditional symbol used by journalists to mark the end of a story (-30-)',
+    '30 is the number of days in April, June, September, and November',
+    '30 is the atomic number of zinc',
+    '30 is the number of teams in both the NBA and NHL',
+  ],
+  '31': [
+    '31 is the number of days in January, March, May, July, August, October, and December',
+    '31 is the number of flavors famously offered by Baskin-Robbins ice cream',
+    '31 is the atomic number of gallium, which melts in your hand',
+    '31 is the number of days in the longest months of the Gregorian calendar',
+  ],
+  '32': [
+    '32 is the number of teeth in a full adult human mouth (including wisdom teeth)',
+    '32 is the temperature in degrees Fahrenheit at which water freezes',
+    '32 is the number of teams in the NFL',
+    '32 is the number of black squares on a chess board',
+  ],
+  '33': [
+    '33 is the number of vertebrae in the human spine',
+    '33 is the speed in RPM of a vinyl LP record',
+    '33 is the atomic number of arsenic',
+    '33 is the number of deities in Vedic religion',
+  ],
+  '34': [
+    '34 is the jersey number of legendary running back Walter Payton',
+    '34 is the jersey number of Shaquille O\'Neal with the Lakers',
+    '34 is the atomic number of selenium',
+  ],
+  '35': [
+    '35 is the age requirement to become President of the United States',
+    '35 is the number of millimeters in standard photographic film width',
+    '35 is the number of the hexagonal magic constant for a 5x5 magic square',
+  ],
+  '36': [
+    '36 is the number of black keys on a standard 88-key piano',
+    '36 is the number of righteous people (Lamed Vav) in Jewish mystical tradition who justify the world',
+    '36 is the atomic number of krypton',
+  ],
+  '37': [
+    '37 is the normal human body temperature in degrees Celsius',
+    '37 is the number of plays attributed to William Shakespeare',
+    '37 is the number at which people most commonly stop when asked to pick a random number between 1 and 100',
+  ],
+  '38': [
+    '38 is the number associated with the 38th parallel, dividing North and South Korea',
+    '38 is the caliber of a popular handgun type (.38 Special)',
+    '38 is the atomic number of strontium',
+  ],
+  '39': [
+    '39 is the title of a John Buchan novel, The Thirty-Nine Steps',
+    '39 is the number of signers of the United States Constitution',
+    '39 is the atomic number of yttrium',
+  ],
+  '40': [
+    '40 is the number of days and nights of rain in the biblical story of Noah',
+    '40 is the number of thieves in the tale of Ali Baba from One Thousand and One Nights',
+    '40 is the number of weeks in a typical human pregnancy',
+    '40 is the number of acres promised to freed slaves in the American Civil War era',
+  ],
+  '41': [
+    '41 is the number of the symphony by Mozart known as the Jupiter Symphony',
+    '41 is the current number of UNESCO World Heritage Sites in the United Kingdom',
+    '41 is the atomic number of niobium',
+  ],
+  '42': [
+    '42 is the Answer to the Ultimate Question of Life, the Universe, and Everything in Douglas Adams\' Hitchhiker\'s Guide to the Galaxy',
+    '42 is the number of laws of cricket',
+    '42 is the jersey number retired by all Major League Baseball teams in honor of Jackie Robinson',
+    '42 is the angle in degrees at which a rainbow appears relative to the direction opposite the sun',
+    '42 is the number of kilometers in a marathon (42.195 km)',
+  ],
+  '43': [
+    '43 is the number of muscles used to frown (though this number is debated)',
+    '43 is the atomic number of technetium, the first synthetically produced element',
+    '43 is the country calling code for Austria',
+  ],
+  '44': [
+    '44 is the number of the current US president Barack Obama (he was the 44th)',
+    '44 is the jersey number of baseball legend Hank Aaron',
+    '44 is the atomic number of ruthenium',
+    '44 is the country calling code for the United Kingdom',
+  ],
+  '45': [
+    '45 is the speed in RPM of a vinyl single record',
+    '45 is the number of the degree angle that maximizes projectile range in a vacuum',
+    '45 is the sum of all digits of a standard Sudoku row (1+2+3+4+5+6+7+8+9)',
+    '45 is the atomic number of rhodium',
+  ],
+  '46': [
+    '46 is the total number of chromosomes in a human cell',
+    '46 is the jersey number of Valentino Rossi in MotoGP',
+    '46 is the atomic number of palladium',
+  ],
+  '47': [
+    '47 is the atomic number of silver',
+    '47 is the name of the fictional Agent 47 from the Hitman video game series',
+    '47 is the country calling code for Norway',
+    '47 is the number of prefectures in Japan',
+  ],
+  '48': [
+    '48 is the number of contiguous United States (lower 48)',
+    '48 is the number of hours famously referenced in the Eddie Murphy movie 48 Hrs.',
+    '48 is the atomic number of cadmium',
+  ],
+  '49': [
+    '49 is the name of the San Francisco 49ers NFL team, referencing the 1849 Gold Rush',
+    '49 is the number of days in seven weeks',
+    '49 is the atomic number of indium',
+  ],
+  '50': [
+    '50 is the number of states in the United States of America',
+    '50 is the golden wedding anniversary number',
+    '50 is the number of stars on the US flag',
+    '50 is the caliber of the famous .50 BMG heavy machine gun round',
+  ],
+  '51': [
+    '51 is the number associated with Area 51, the secretive US Air Force facility in Nevada',
+    '51 is the atomic number of antimony',
+    '51 is the number of the famous Pastis 51 French aperitif',
+  ],
+  '52': [
+    '52 is the number of cards in a standard deck (without jokers)',
+    '52 is the number of white keys on a standard 88-key piano',
+    '52 is the number of weeks in a year',
+  ],
+  '53': [
+    '53 is the number of the Herbie the Love Bug in the Disney films',
+    '53 is the atomic number of iodine',
+    '53 is the country calling code for Cuba',
+  ],
+  '54': [
+    '54 is the number of countries in Africa',
+    '54 is the number of the famous Studio 54 nightclub in New York City',
+    '54 is the atomic number of xenon',
+  ],
+  '55': [
+    '55 is the speed limit in miles per hour that was federally mandated in the US from 1974 to 1995',
+    '55 is the number of delegates at the Constitutional Convention in Philadelphia in 1787',
+    '55 is a Fibonacci number',
+  ],
+  '56': [
+    '56 is the number of signers of the US Declaration of Independence',
+    '56 is the number of Aubrey holes at Stonehenge',
+    '56 is the atomic number of barium',
+  ],
+  '57': [
+    '57 is the number on Heinz ketchup bottles, advertising their "57 Varieties"',
+    '57 is the country calling code for Colombia',
+    '57 is the atomic number of lanthanum',
+  ],
+  '58': [
+    '58 is the number of national parks in the United States (as of recent counts)',
+    '58 is the atomic number of cerium',
+    '58 is the number of the Porsche 718 Cayman S racing designation from the 1950s',
+  ],
+  '59': [
+    '59 is the number of seconds in the last minute before a new hour',
+    '59 is the highest number of minutes displayed on a standard clock',
+    '59 is the atomic number of praseodymium',
+  ],
+  '60': [
+    '60 is the number of seconds in a minute and minutes in an hour',
+    '60 is the base of the Babylonian numeral system (sexagesimal)',
+    '60 is the diamond wedding anniversary number',
+    '60 is the number of games in an NBA regular season for each team in a conference',
+  ],
+  '61': [
+    '61 is the number of home runs Roger Maris hit in 1961, breaking Babe Ruth\'s record',
+    '61 is the country calling code for Australia',
+    '61 is the atomic number of promethium',
+  ],
+  '62': [
+    '62 is the number of moons of Saturn that had been confirmed as of 2023',
+    '62 is the atomic number of samarium',
+    '62 is the code for international direct-dial calls to Indonesia',
+  ],
+  '63': [
+    '63 is the total number of squares on a chess board that can be attacked by a queen placed centrally',
+    '63 is the atomic number of europium, named after the continent of Europe',
+    '63 is the jersey number of NFL legend Gene Upshaw',
+  ],
+  '64': [
+    '64 is the number of squares on a chess board',
+    '64 is the number of crayons in the classic big Crayola box',
+    '64 is the number of the Nintendo 64 gaming console',
+    '64 is the number of codons in the genetic code',
+  ],
+  '65': [
+    '65 is the traditional retirement age in many countries',
+    '65 is the speed limit in miles per hour on many US highways',
+    '65 is the number of roses in the variety known as the War of the Roses',
+  ],
+  '66': [
+    '66 is the number of the famous Route 66 highway in the United States, spanning from Chicago to Santa Monica',
+    '66 is the number of books in the Protestant Bible',
+    '66 is the atomic number of dysprosium',
+  ],
+  '67': [
+    '67 is the number of the Shelby GT-500 model year that became a muscle car icon',
+    '67 is the atomic number of holmium',
+    '67 is the number of the famous Summer of Love (1967)',
+  ],
+  '68': [
+    '68 is the atomic number of erbium',
+    '68 is associated with the May 1968 protests in France that changed European politics',
+    '68 is the number of the Motorola 68000 processor family that powered early Macintosh computers',
+  ],
+  '69': [
+    '69 is the number of the Cancer zodiac sign symbol ♋',
+    '69 is the number of the year Woodstock took place (1969)',
+    '69 is the sum of the first nine natural numbers squared modulo 100',
+  ],
+  '70': [
+    '70 is the number of years in a biblical lifespan ("threescore years and ten")',
+    '70 is the number of the Septuagint translators who translated the Hebrew Bible into Greek',
+    '70 is the year CE when the Roman Empire destroyed the Second Temple in Jerusalem',
+  ],
+  '71': [
+    '71 is the atomic number of lutetium, the last of the lanthanide series',
+    '71 is the approximate height in inches of the average American male',
+    '71 is the country calling code for Venezuela',
+  ],
+  '72': [
+    '72 is the number of names of God in some Kabbalistic traditions',
+    '72 is the average number of heartbeats per minute for a resting adult',
+    '72 is the par score for many 18-hole golf courses',
+    '72 is the number of the Rule of 72 used to estimate investment doubling time',
+  ],
+  '73': [
+    '73 is Sheldon Cooper\'s favorite number on The Big Bang Theory because it is the 21st prime, and 21 is 7×3',
+    '73 is the atomic number of tantalum',
+    '73 is the jersey number of many NFL offensive linemen',
+  ],
+  '74': [
+    '74 is the atomic number of tungsten, the element with the highest melting point',
+    '74 is the country calling code for Paraguay',
+    '74 is the number of the B-74 bomber prototype designation',
+  ],
+  '75': [
+    '75 is the diamond jubilee celebration year',
+    '75 is the percentage that water covers the Earth\'s surface (approximately)',
+    '75 is the atomic number of rhenium, one of the rarest elements in Earth\'s crust',
+  ],
+  '76': [
+    '76 is the number associated with the Spirit of \'76 in American independence lore',
+    '76 is the name of the Philadelphia 76ers NBA team',
+    '76 is the atomic number of osmium, the densest naturally occurring element',
+  ],
+  '77': [
+    '77 is the atomic number of iridium, the most corrosion-resistant metal',
+    '77 is the number associated with the Boeing 777 aircraft',
+    '77 is the jersey number of NBA legend Luka Dončić',
+  ],
+  '78': [
+    '78 is the speed in RPM of a shellac phonograph record',
+    '78 is the number of cards in a tarot deck including Major and Minor Arcana',
+    '78 is the atomic number of platinum',
+  ],
+  '79': [
+    '79 is the atomic number of gold',
+    '79 is the year CE that Mount Vesuvius erupted and destroyed Pompeii',
+    '79 is the country calling code assigned to several Central Asian nations',
+  ],
+  '80': [
+    '80 is the number of days it took Phileas Fogg to travel Around the World in Jules Verne\'s novel',
+    '80 is the default port number for HTTP web traffic',
+    '80 is the atomic number of mercury, the liquid metal',
+  ],
+  '81': [
+    '81 is the number of squares on a Sudoku grid (9×9)',
+    '81 is the jersey number of NFL wide receiver Calvin Johnson (Megatron)',
+    '81 is the atomic number of thallium',
+  ],
+  '82': [
+    '82 is the number of games in an NBA and NHL regular season',
+    '82 is the atomic number of lead',
+    '82 is the number of counties in Mississippi',
+  ],
+  '83': [
+    '83 is the atomic number of bismuth, known for its iridescent crystals',
+    '83 is the country calling code for Italy',
+    '83 is the number of chapters in the Quran according to some counts',
+  ],
+  '84': [
+    '84 is the number of years in an Uranus orbital period around the Sun',
+    '84 is the atomic number of polonium, discovered by Marie Curie',
+    '84 is the number of the classic George Orwell novel inspired its title (Nineteen Eighty-Four)',
+  ],
+  '85': [
+    '85 is the atomic number of astatine, the rarest naturally occurring element',
+    '85 is the speed in mph of the fastest recorded tennis serve by some early records',
+    '85 is the approximate percentage of the universe that is dark matter',
+  ],
+  '86': [
+    '86 is restaurant slang for an item that is no longer available ("86 it")',
+    '86 is the atomic number of radon',
+    '86 is the approximate number of billion neurons in the human brain',
+  ],
+  '87': [
+    '87 is the atomic number of francium, the most unstable of the first 101 elements',
+    '87 is the jersey number of Rob Gronkowski in the NFL',
+    '87 is the country calling code for multiple nations (shared)',
+  ],
+  '88': [
+    '88 is the number of keys on a standard piano',
+    '88 is the number of constellations recognized by the International Astronomical Union',
+    '88 is the speed in miles per hour needed for time travel in the DeLorean in Back to the Future',
+    '88 is the atomic number of radium',
+  ],
+  '89': [
+    '89 is a Fibonacci number',
+    '89 is the atomic number of actinium',
+    '89 is the year the Berlin Wall fell (1989)',
+    '89 is the number of the first year of the French Revolution (1789 → ends in 89)',
+  ],
+  '90': [
+    '90 is the number of degrees in a right angle',
+    '90 is the number of minutes in a standard soccer match (without extra time)',
+    '90 is the atomic number of thorium',
+    '90 is the latitude in degrees of the North and South Poles',
+  ],
+  '91': [
+    '91 is the country calling code for India',
+    '91 is the total number of dots on a pair of dice multiplied by a certain factor (actually 91 = sum of 1..13)',
+    '91 is the atomic number of protactinium',
+  ],
+  '92': [
+    '92 is the atomic number of uranium, the heaviest naturally abundant element',
+    '92 is the number of the Michael Jordan documentary The Last Dance jersey retired in 1993',
+    '92 is the jersey number of multiple NFL defensive players',
+  ],
+  '93': [
+    '93 is the number of the United Airlines Flight 93 that crashed in Pennsylvania on September 11, 2001',
+    '93 is the atomic number of neptunium',
+    '93 is the number of the famous Thelemic greeting "93" meaning "love" and "will"',
+  ],
+  '94': [
+    '94 is the atomic number of plutonium',
+    '94 is the length in feet of a standard NBA basketball court',
+    '94 is the number of the Interstate highway that runs from Montana to the Great Lakes region',
+  ],
+  '95': [
+    '95 is the number of theses Martin Luther nailed to the church door in Wittenberg in 1517',
+    '95 is the number of the Windows 95 operating system that revolutionized personal computing',
+    '95 is the atomic number of americium, used in smoke detectors',
+  ],
+  '96': [
+    '96 is the number of the Hillsborough disaster victims in 1989 (later revised to 97)',
+    '96 is the atomic number of curium, named after Marie and Pierre Curie',
+    '96 is the temperature in degrees Fahrenheit close to normal human body temperature (98.6°F)',
+  ],
+  '97': [
+    '97 is the largest two-digit prime number',
+    '97 is the atomic number of berkelium',
+    '97 is the percentage of water on Earth that is saltwater',
+  ],
+  '98': [
+    '98 is the number in the Windows 98 operating system',
+    '98 is the approximate normal human body temperature in Fahrenheit (98.6°F)',
+    '98 is the atomic number of californium',
+  ],
+  '99': [
+    '99 is the jersey number associated with Wayne Gretzky, retired across the entire NHL',
+    '99 is the number of the classic song "99 Luftballons" (99 Red Balloons) by Nena',
+    '99 is the number of the Beautiful Names of God in Islamic tradition',
+    '99 is the atomic number of einsteinium',
+  ],
+  '100': [
+    '100 is the boiling point of water in degrees Celsius at standard atmospheric pressure',
+    '100 is the number of tiles in a standard Scrabble game',
+    '100 is the number of cents in a US dollar',
+    '100 is the number of senators in the US Senate',
+  ],
+  '101': [
+    '101 is the number of dalmatians in the Disney classic One Hundred and One Dalmatians',
+    '101 is commonly used to denote an introductory course (e.g., "Economics 101")',
+    '101 is the number of the famous US Highway 101 along the Pacific Coast',
+  ],
+  '108': [
+    '108 is the number of beads in a Buddhist or Hindu mala (prayer necklace)',
+    '108 is the number of stitches on a baseball',
+    '108 is a sacred number in many Eastern religions and martial arts traditions',
+  ],
+  '110': [
+    '110 is the number of stories in the original World Trade Center towers',
+    '110 is the number of meters in a standard hurdle race',
+    '110 is the emergency telephone number in China, Germany, and Japan',
+  ],
+  '111': [
+    '111 is known as a "Nelson" in cricket, considered unlucky in England',
+    '111 is the emergency telephone number in New Zealand',
+    '111 is the smallest repunit prime (a prime made of repeating 1s in certain bases)',
+  ],
+  '112': [
+    '112 is the emergency telephone number across the European Union',
+    '112 is the atomic number of copernicium, named after Nicolaus Copernicus',
+    '112 is the number of elements in the original periodic table proposal by Mendeleev (extended)',
+  ],
+  '118': [
+    '118 is the number of elements currently on the periodic table (oganesson is element 118)',
+    '118 is the number of ridges on the edge of a US dime',
+    '118 is the number of the heaviest known element as of 2024',
+  ],
+  '120': [
+    '120 is the number of crayons in the largest standard Crayola box',
+    '120 is the number of degrees in an angle of an equilateral triangle\'s supplement',
+    '120 is the maximum age in years reached by Jeanne Calment, the oldest verified person (actually 122)',
+  ],
+  '128': [
+    '128 is the number of characters in the original ASCII standard',
+    '128 is the number of the famous Commodore 128 computer',
+    '128 is the number of entries in the main draw of a Grand Slam tennis tournament',
+  ],
+  '137': [
+    '137 is the approximate inverse of the fine-structure constant, one of the most fundamental numbers in physics',
+    '137 is a number that obsessed physicist Wolfgang Pauli throughout his career',
+    '137 is the atomic number of an element in the extended periodic table (untriseptium, hypothetical)',
+  ],
+  '144': [
+    '144 is a dozen dozen, also known as a gross',
+    '144 is a Fibonacci number',
+    '144 is the number of the famous Cessna 172 production count (in thousands)',
+  ],
+  '153': [
+    '153 is the number of fish caught in the net in the Gospel of John 21:11',
+    '153 is a narcissistic number (1³+5³+3³ = 153)',
+    '153 is the number of Hail Marys prayed in a full Rosary',
+  ],
+  '163': [
+    '163 is associated with the Heegner number, connected to deep properties in number theory',
+    '163 is the number that makes e^(π√163) remarkably close to an integer',
+    '163 is a prime number with unique algebraic properties',
+  ],
+  '180': [
+    '180 is the sum of the interior angles of a triangle in degrees',
+    '180 is the maximum score with three darts (three triple-20s)',
+    '180 is the number of degrees in a half-turn rotation',
+  ],
+  '196': [
+    '196 is the smallest Lychrel number candidate — no palindrome has been found by reversing and adding',
+    '196 is the country calling code that is unassigned',
+    '196 is the number of countries recognized by the United Nations (approximately)',
+  ],
+  '200': [
+    '200 is the HTTP status code for a successful web request ("OK")',
+    '200 is the number of dollars for passing GO in Monopoly',
+    '200 is the number of laps in the Daytona 500 (sort of — it\'s 200 laps of the 2.5 mile track)',
+  ],
+  '206': [
+    '206 is the total number of bones in an adult human body',
+    '206 is the area code for Seattle, Washington',
+    '206 is the HTTP status code for partial content',
+  ],
+  '212': [
+    '212 is the boiling point of water in degrees Fahrenheit',
+    '212 is the area code for Manhattan, New York City',
+    '212 is the country calling code for Morocco',
+  ],
+  '220': [
+    '220 is the first of the amicable numbers (220 and 284)',
+    '220 is the standard voltage for household electricity in many countries',
+    '220 is the number of yards in a furlong',
+  ],
+  '221': [
+    '221 is the house number of Sherlock Holmes on Baker Street (221B)',
+    '221 is a product of two consecutive prime numbers (13×17)',
+  ],
+  '240': [
+    '240 is the number of miles the Pony Express riders typically covered in a relay',
+    '240 is the old British monetary system pence in a pound (before decimalization)',
+  ],
+  '247': [
+    '247 is used in "24/7" to mean around the clock, every day',
+    '247 is a combination of two primes (13×19)',
+  ],
+  '256': [
+    '256 is the number of values a byte can represent (0-255)',
+    '256 is the number of characters in the extended ASCII set',
+    '256 is 2 to the 8th power',
+  ],
+  '273': [
+    '273 is close to the absolute zero temperature on the Celsius scale (−273.15°C)',
+    '273 is a sphenic number (3×7×13)',
+  ],
+  '284': [
+    '284 is the second amicable number, paired with 220',
+    '284 is the sum of the proper divisors of 220',
+  ],
+  '300': [
+    '300 is the number of Spartan warriors led by King Leonidas at the Battle of Thermopylae',
+    '300 is a perfect score in bowling',
+    '300 is the approximate speed of light in thousands of kilometers per second (299,792)',
+  ],
+  '314': [
+    '314 is the first three digits of pi (π = 3.14159...)',
+    '314 is the area code for St. Louis, Missouri',
+    '314 is celebrated as Pi Day when written as 3/14 (March 14)',
+  ],
+  '333': [
+    '333 is half of the number of the Beast (666)',
+    '333 is an angel number in numerology representing encouragement',
+    '333 is the number of a famous USAF training squadron',
+  ],
+  '365': [
+    '365 is the number of days in a common year',
+    '365 is the number of the asteroid 365 Corduba',
+    '365 was the number of days in the ancient Egyptian civil calendar',
+  ],
+  '366': [
+    '366 is the number of days in a leap year',
+    '366 is the maximum number of distinct birthdays possible in a year',
+  ],
+  '404': [
+    '404 is the HTTP status code for "Not Found" — one of the most recognized error messages on the internet',
+    '404 is the area code for Atlanta, Georgia',
+    '404 is the number that has become a cultural meme for anything missing or unavailable',
+  ],
+  '420': [
+    '420 is the number associated with cannabis culture, originating from a group of California teenagers in the 1970s',
+    '420 is the area code for parts of Georgia including Savannah',
+  ],
+  '440': [
+    '440 is the standard frequency in Hertz for the musical note A above middle C (concert pitch)',
+    '440 is the number of a famous Mopar engine displacement in cubic inches (440 Magnum)',
+  ],
+  '451': [
+    '451 is the temperature in Fahrenheit at which paper allegedly ignites, from Ray Bradbury\'s Fahrenheit 451',
+    '451 is the HTTP status code for content unavailable for legal reasons',
+  ],
+  '500': [
+    '500 is the HTTP status code for an internal server error',
+    '500 is the number of miles in the Indianapolis 500 auto race',
+    '500 is the number of sheets of paper in a ream',
+  ],
+  '501': [
+    '501 is the model number of the iconic Levi\'s 501 jeans',
+    '501 is the standard starting score in a common darts game format',
+  ],
+  '512': [
+    '512 is 2 to the 9th power',
+    '512 is the area code for Austin, Texas',
+  ],
+  '555': [
+    '555 is the prefix used for fictional phone numbers in American movies and TV shows',
+    '555 is the number of a popular timer integrated circuit (the NE555)',
+  ],
+  '616': [
+    '616 is the number of the Marvel Comics universe designation (Earth-616)',
+    '616 is an alternative reading for the Number of the Beast in some ancient biblical manuscripts',
+  ],
+  '666': [
+    '666 is the Number of the Beast referenced in the Book of Revelation',
+    '666 is the sum of the first 36 natural numbers (1+2+3+...+36)',
+    '666 is the sum of all the numbers on a roulette wheel',
+  ],
+  '700': [
+    '700 is the number of the Boeing 7-series of commercial aircraft',
+    '700 is the approximate number of muscles in the human body (some sources say 600-800)',
+  ],
+  '710': [
+    '710 is OIL spelled upside down, marking a day for cannabis oil enthusiasts (July 10)',
+    '710 is the area code for Colorado Springs',
+  ],
+  '747': [
+    '747 is the model number of the iconic Boeing 747 jumbo jet, the Queen of the Skies',
+    '747 is a number widely recognized in aviation as representing long-haul air travel',
+  ],
+  '786': [
+    '786 is considered a sacred number in Islamic tradition, representing Bismillah',
+    '786 is the area code for Miami, Florida',
+  ],
+  '800': [
+    '800 is the prefix for toll-free phone numbers in North America',
+    '800 is the approximate number of languages spoken in Papua New Guinea',
+  ],
+  '867': [
+    '867 is part of the phone number from Tommy Tutone\'s hit song "867-5309/Jenny"',
+    '867 is a prime number',
+  ],
+  '888': [
+    '888 is considered a very lucky number in Chinese culture (triple prosperity)',
+    '888 is a toll-free telephone prefix in North America',
+  ],
+  '911': [
+    '911 is the emergency telephone number in the United States and Canada',
+    '911 is the model number of the iconic Porsche 911 sports car',
+    '911 is forever associated with the September 11, 2001 terrorist attacks',
+  ],
+  '999': [
+    '999 is the emergency telephone number in the United Kingdom',
+    '999 is the largest three-digit number',
+    '999 is the emergency number in many Commonwealth countries',
+  ],
+  '1000': [
+    '1000 is the number of words proverbially said to be worth a picture',
+    '1000 is the number of grams in a kilogram',
+    '1000 is the number of meters in a kilometer',
+  ],
+  '1001': [
+    '1001 is the number of nights in the Arabian Nights (One Thousand and One Nights)',
+    '1001 is the product of 7, 11, and 13',
+  ],
+  '1024': [
+    '1024 is the number of bytes in a kibibyte (often approximated as a kilobyte)',
+    '1024 is 2 to the 10th power',
+    '1024 is the resolution width of the once-standard XGA display',
+  ],
+  '1066': [
+    '1066 is the year of the Battle of Hastings, when William the Conqueror invaded England',
+    '1066 is one of the most well-known dates in English history',
+  ],
+  '1089': [
+    '1089 is a number with a magical property: pick any 3-digit number, reverse it, subtract, reverse the result, and add — you always get 1089',
+    '1089 is 33 squared',
+  ],
+  '1111': [
+    '1111 is a repunit number, often considered a "make a wish" time on a digital clock (11:11)',
+    '1111 is a number that many people associate with synchronicity and spiritual meaning',
+  ],
+  '1234': [
+    '1234 is one of the most commonly used PINs (and therefore one of the worst for security)',
+    '1234 is a sequence that appears in the ascending order of natural numbers (1, 2, 3, 4)',
+  ],
+  '1337': [
+    '1337 is the numerical spelling of "LEET" in leet speak, internet hacker slang',
+    '1337 is a prime number prized in hacker and gaming culture',
+  ],
+  '1492': [
+    '1492 is the year Christopher Columbus first sailed to the Americas',
+    '1492 is one of the most memorized dates in world history',
+    '1492 is also the year the Alhambra Decree expelled Jews from Spain',
+  ],
+  '1729': [
+    '1729 is the Hardy-Ramanujan number — the smallest number expressible as the sum of two cubes in two different ways (1³+12³ and 9³+10³)',
+    '1729 is named after a famous anecdote between mathematicians G.H. Hardy and Srinivasa Ramanujan',
+  ],
+  '1776': [
+    '1776 is the year the United States Declaration of Independence was signed',
+    '1776 is the height in feet of One World Trade Center in New York City',
+    '1776 is one of the most iconic numbers in American history',
+  ],
+  '1984': [
+    '1984 is the year of George Orwell\'s dystopian novel Nineteen Eighty-Four',
+    '1984 is the year Apple launched the Macintosh with its famous Super Bowl commercial',
+    '1984 is the year the first Transformers and Teenage Mutant Ninja Turtles appeared',
+  ],
+  '2001': [
+    '2001 is the year of Stanley Kubrick\'s iconic film 2001: A Space Odyssey (the setting)',
+    '2001 is the year Wikipedia launched',
+    '2001 is the year Apple introduced the first iPod',
+  ],
+  '2020': [
+    '2020 is the year the COVID-19 pandemic began (widespread global impact)',
+    '2020 is associated with perfect vision (20/20)',
+    '2020 is the year SpaceX launched its first crewed mission to the ISS',
+  ],
+  '2048': [
+    '2048 is the target number in the popular sliding tile puzzle game 2048',
+    '2048 is 2 to the 11th power',
+  ],
+  '3141': [
+    '3141 is the first four digits of pi multiplied by 1000 (π ≈ 3.141592...)',
+    '3141 is the zip code for a famous area in Bridgeport, Connecticut',
+  ],
+  '5280': [
+    '5280 is the number of feet in a mile',
+    '5280 is a number every American student memorizes in school',
+  ],
+  '8848': [
+    '8848 is the height of Mount Everest in meters (revised to 8849 in 2020)',
+    '8848 is the elevation that defines the highest point on Earth\'s surface',
+  ],
+  '10000': [
+    '10000 is the number of hours Malcolm Gladwell suggests are needed to master a skill',
+    '10000 is the number of steps recommended as a daily walking goal',
+  ],
+  '31337': [
+    '31337 spells ELEET in leet speak, the ultimate hacker designation',
+    '31337 is a prime number beloved in hacker culture',
+  ],
+  '42195': [
+    '42195 is the distance in meters of an official marathon (42.195 km)',
+    '42195 was standardized as the marathon distance at the 1908 London Olympics',
+  ],
+  '86400': [
+    '86400 is the number of seconds in a day (60×60×24)',
+    '86400 is a fundamental constant in timekeeping and computing',
+  ],
+};

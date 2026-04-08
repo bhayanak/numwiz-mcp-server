@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.vsix
+*.tgz
+.DS_Store
+*.log
+
+/*.md
+!README.md
+confluence-drafts
+.vscode

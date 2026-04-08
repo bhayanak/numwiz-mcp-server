@@ -1,0 +1,27 @@
+{
+  "name": "numwiz-mcp-monorepo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm -r run build",
+    "dev": "pnpm --filter numwiz-mcp-server run dev",
+    "test": "pnpm --filter numwiz-mcp-server run test",
+    "test:coverage": "pnpm --filter numwiz-mcp-server run test:coverage",
+    "lint": "pnpm --filter numwiz-mcp-server run lint",
+    "lint:fix": "pnpm --filter numwiz-mcp-server run lint:fix",
+    "typecheck": "pnpm -r run typecheck",
+    "format": "pnpm --filter numwiz-mcp-server run format",
+    "format:fix": "pnpm --filter numwiz-mcp-server run format:fix",
+    "generate-logo": "tsx scripts/generate-logo.ts",
+    "validate": "pnpm run typecheck && pnpm run lint && pnpm run test && pnpm run format",
+    "ci": "pnpm run typecheck && pnpm run lint && pnpm run test:coverage && pnpm run format"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4",
+    "sharp": "^0.33.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "sharp", "@vscode/vsce-sign"]
+  },
+  "packageManager": "pnpm@9.15.4"
+}

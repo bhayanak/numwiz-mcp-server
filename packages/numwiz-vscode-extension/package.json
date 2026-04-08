@@ -1,0 +1,50 @@
+{
+  "name": "numwiz-mcp-vscode",
+  "displayName": "NumWiz MCP Server",
+  "description": "Number trivia, math facts, date facts, and year facts for AI assistants",
+  "publisher": "bhayanak",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./dist/extension.js",
+  "categories": [
+    "AI",
+    "Chat"
+  ],
+  "keywords": [
+    "mcp",
+    "numbers",
+    "trivia",
+    "math",
+    "copilot",
+    "ai"
+  ],
+  "icon": "logo.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhayanak/numwiz-mcp-server"
+  },
+  "contributes": {
+    "mcpServerDefinitionProviders": [
+      {
+        "id": "numwiz-mcp",
+        "label": "NumWiz MCP Server"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "node build.cjs",
+    "typecheck": "echo 'Extension typecheck skipped (uses vscode types at runtime)'",
+    "package": "node build.cjs && npx @vscode/vsce package --skip-license --out numwiz-mcp-vscode-0.1.0.vsix"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.99.0",
+    "esbuild": "^0.24.2",
+    "@vscode/vsce": "^3.3.2"
+  }
+}

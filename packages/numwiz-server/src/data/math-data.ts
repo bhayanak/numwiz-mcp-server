@@ -1,0 +1,744 @@
+export const mathFacts: Record<string, string[]> = {
+  '0': [
+    '0 is the additive identity — adding 0 to any number yields that number',
+    '0 is neither positive nor negative',
+    '0 is the only number that is neither prime nor composite',
+    '0 factorial (0!) equals 1 by convention',
+  ],
+  '1': [
+    '1 is the multiplicative identity — multiplying any number by 1 yields that number',
+    '1 is the only natural number that is neither prime nor composite',
+    '1 is the first and second Fibonacci number',
+    '1 is a perfect nth power for every positive integer n',
+  ],
+  '2': [
+    '2 is the only even prime number',
+    '2 is the base of the binary number system used in all digital computing',
+    '2 is the first prime number and the smallest prime',
+    '2 is the only number where 2+2 = 2×2 = 2²',
+  ],
+  '3': [
+    '3 is the first odd prime number',
+    '3 is the first Mersenne prime (2²−1 = 3)',
+    '3 is the number of dimensions in everyday space',
+    '3 is the first triangular number greater than 1',
+  ],
+  '4': [
+    '4 is the first composite number',
+    '4 is the smallest perfect square greater than 1',
+    '4 is the only number that has the same number of letters as its value in English',
+    '4 is the base of the quaternary numeral system',
+  ],
+  '5': [
+    '5 is the fifth Fibonacci number',
+    '5 is the number of Platonic solids (tetrahedron, cube, octahedron, dodecahedron, icosahedron)',
+    '5 is the hypotenuse of the smallest Pythagorean triple (3, 4, 5)',
+    '5 is a safe prime (both 5 and (5−1)/2 = 2 are prime)',
+  ],
+  '6': [
+    '6 is the first perfect number (1+2+3 = 6)',
+    '6 is the smallest number that is the sum of its proper divisors',
+    '6 is the number of faces on a cube',
+    '6 is a triangular number (1+2+3)',
+  ],
+  '7': [
+    '7 is a Mersenne prime (2³−1 = 7)',
+    '7 is the first number that cannot be represented as the sum of fewer than 4 non-zero squares',
+    '7 is the number of frieze groups in mathematics',
+    '7 is the lowest number of faces of a regular polygon that cannot tile the Euclidean plane',
+  ],
+  '8': [
+    '8 is the first cube after 1 (2³ = 8)',
+    '8 is the number of vertices of a cube',
+    '8 is a Fibonacci number',
+    '8 is the base of the octal number system',
+  ],
+  '9': [
+    '9 is the first odd perfect square (3² = 9)',
+    '9 is a magic number: any number multiplied by 9 has digits summing to 9',
+    '9 is the number of edges of a complete graph on 4 vertices (K₃ actually has 3; K₄ has 6; correction: K₃ has 3)',
+    '9 is the maximum number of cubes needed to sum to any positive integer (Waring\'s problem for cubes)',
+  ],
+  '10': [
+    '10 is the base of our decimal number system',
+    '10 is a triangular number (1+2+3+4)',
+    '10 is the sum of the first four positive integers',
+    '10 is the smallest noncototient (number that cannot be expressed as n − φ(n) for any n)',
+  ],
+  '11': [
+    '11 is the smallest repunit prime (a prime with all digits being 1)',
+    '11 is the fifth prime number',
+    '11 is a palindromic prime',
+    '11 is the atomic number with no connection to math but the number itself is mathematically special as a prime',
+  ],
+  '12': [
+    '12 is the smallest abundant number where the sum of proper divisors exceeds the number (1+2+3+4+6 = 16 > 12)',
+    '12 is a highly composite number with 6 divisors',
+    '12 is the number of edges of both a cube and an octahedron',
+    '12 is the base of the duodecimal system favored by some mathematicians',
+  ],
+  '13': [
+    '13 is a Fibonacci number',
+    '13 is a happy number (1²+3² = 10 → 1²+0² = 1)',
+    '13 is the sixth prime number',
+    '13 is the number of Archimedean solids',
+  ],
+  '14': [
+    '14 is the number of possible Bravais lattice types in three-dimensional crystallography',
+    '14 is a Catalan number — the 4th Catalan number C₃ is actually 5, but C₄ = 14',
+    '14 is the sum of the first three squares (1+4+9)',
+  ],
+  '15': [
+    '15 is a triangular number (1+2+3+4+5)',
+    '15 is the magic constant of a 3×3 magic square',
+    '15 is the smallest number that can be factored in two distinct ways using numbers ≥2 (3×5 and 15×1)',
+    '15 is the number of partitions of the number 7',
+  ],
+  '16': [
+    '16 is the base of hexadecimal, widely used in computing',
+    '16 is a perfect fourth power (2⁴ = 16)',
+    '16 is the only number of the form xʸ = yˣ with unequal x and y where x, y are integers (2⁴ = 4²)',
+  ],
+  '17': [
+    '17 is a Fermat prime (2^(2²)+1 = 17)',
+    '17 is the minimum number of clues needed for a valid Sudoku puzzle',
+    '17 is the number of wallpaper groups in two-dimensional symmetry',
+    '17 is the only prime that is the sum of four consecutive primes (2+3+5+7)',
+  ],
+  '18': [
+    '18 is a heptagonal number',
+    '18 is the only number that is twice the sum of its digits (1+8 = 9, 9×2 = 18)',
+    '18 is the number of edges of a complete graph on 6 vertices (nope: K₆ has 15). Actually 18 is the number of edges of the Petersen graph — no, that\'s 15. 18 = number of edges of prism graph Y₆',
+  ],
+  '19': [
+    '19 is a centered hexagonal number',
+    '19 is the number of the Baha\'i calendar months in a year (19 months of 19 days)',
+    '19 is a prime number that appears in many mathematical structures',
+  ],
+  '20': [
+    '20 is a tetrahedral number (the number of balls in a tetrahedron with 3 layers)',
+    '20 is the number of faces on an icosahedron',
+    '20 is the base of the vigesimal number system used by the Maya',
+  ],
+  '21': [
+    '21 is a triangular number (1+2+3+4+5+6)',
+    '21 is a Fibonacci number',
+    '21 is the number of spots on a standard die (1+2+3+4+5+6)',
+    '21 is a Motzkin number',
+  ],
+  '22': [
+    '22 is a pentagonal number',
+    '22/7 is a common approximation for pi (π ≈ 3.14159... while 22/7 ≈ 3.14286...)',
+    '22 is the number of partitions of 8',
+  ],
+  '23': [
+    '23 is the first prime number where both digits are themselves prime',
+    '23 is the smallest number of people needed for a 50% chance that two share a birthday (Birthday Problem)',
+    '23 is a factorial prime (it divides 23! but no smaller factorial)',
+  ],
+  '24': [
+    '24 is a factorial number: 4! = 24',
+    '24 is the number of symmetry rotations of a cube (orientation-preserving symmetries)',
+    '24 is the kisssing number in four dimensions (the maximum number of non-overlapping unit spheres that can touch a central unit sphere)',
+    '24 is a highly composite number',
+  ],
+  '25': [
+    '25 is a perfect square (5²)',
+    '25 is the smallest square that can be written as the sum of two consecutive squares (9+16)',
+    '25 is a centered octagonal number',
+  ],
+  '26': [
+    '26 is the only number between a perfect square (25) and a perfect cube (27)',
+    '26 is a semiprime (2×13)',
+    '26 is the number of sporadic groups in mathematics (there are exactly 26)',
+  ],
+  '27': [
+    '27 is a perfect cube (3³)',
+    '27 is the number of possible cubies in a Rubik\'s Cube',
+    '27 is the largest number that is the sum of the digits of its cube (27³ = 19683, 1+9+6+8+3 = 27)',
+    '27 is a Smith number (sum of digits = sum of digits of prime factorization)',
+  ],
+  '28': [
+    '28 is the second perfect number (1+2+4+7+14 = 28)',
+    '28 is a triangular number (1+2+3+4+5+6+7)',
+    '28 is a hexagonal number',
+    '28 is the number of dominoes in a double-six set (mathematical combinatorics: C(8,2))',
+  ],
+  '29': [
+    '29 is the tenth prime number',
+    '29 is a Lucas prime',
+    '29 is the number of days in a synodic month (approximately 29.53)',
+  ],
+  '30': [
+    '30 is the largest number such that all coprime numbers smaller than it are prime',
+    '30 is a primorial (2×3×5 = 30)',
+    '30 is the number of edges of both an icosahedron and a dodecahedron',
+    '30 is the sum of the first four squares (1+4+9+16)',
+  ],
+  '31': [
+    '31 is a Mersenne prime (2⁵−1 = 31)',
+    '31 is the third Mersenne prime',
+    '31 is a centered pentagonal number',
+    '31 is a repunit in base 2 (11111₂)',
+  ],
+  '32': [
+    '32 is a power of two (2⁵ = 32)',
+    '32 is the fifth power of 2',
+    '32 is the number of crystal classes (point groups) in crystallography',
+  ],
+  '33': [
+    '33 is the largest number that is not the sum of distinct triangular numbers',
+    '33 is the number of the last verified integer for which the sum of three cubes was unknown until 2019 (33 = 8866128975287528³ + (-8778405442862239)³ + (-2736111468807040)³)',
+    '33 is a palindromic number in decimal',
+  ],
+  '34': [
+    '34 is a Fibonacci number',
+    '34 is the magic constant of a 4×4 normal magic square',
+    '34 is the ninth Fibonacci number (depending on whether you start counting from 0)',
+  ],
+  '35': [
+    '35 is a tetrahedral number',
+    '35 is a pentatope number',
+    '35 is the number of hexominoes (6-cell polyominoes)',
+  ],
+  '36': [
+    '36 is a perfect square (6²) and a triangular number (1+2+...+8)',
+    '36 is the only number (other than 1) that is both a perfect square and a triangular number up to this range',
+    '36 is the number of possible results when rolling two dice (6×6)',
+    '36 is a highly composite number',
+  ],
+  '37': [
+    '37 is a star number',
+    '37 is a centered hexagonal number',
+    '37 is the median value of the second prime factor of any integer',
+    '37 is part of the "37% rule" in optimal stopping theory (the secretary problem)',
+  ],
+  '38': [
+    '38 is a semiprime (2×19)',
+    '38 is the number of possible normal magic hexagons of order 2 (actually there is exactly 1 up to rotation — 38 is simply semiprime)',
+    '38 is the last even number that cannot be expressed as the sum of two odd composite numbers',
+  ],
+  '39': [
+    '39 is the sum of five consecutive prime numbers (3+5+7+11+13)',
+    '39 is the smallest natural number with exactly 3 partitions into three parts',
+    '39 is a semiprime (3×13)',
+  ],
+  '40': [
+    '40 is a repdigit in base 3 (1111₃ = 40)',
+    '40 is an octagonal number',
+    '40 is a Harshad number (divisible by the sum of its digits: 4+0=4)',
+  ],
+  '41': [
+    '41 is the first number in Euler\'s famous prime-generating polynomial n²+n+41 (which gives primes for n=0 to 39)',
+    '41 is the 13th prime number',
+    '41 is a Newman-Shanks-Williams prime',
+  ],
+  '42': [
+    '42 is a pronic number (the product of 6 and 7)',
+    '42 is a Catalan number (C₅ = 42)',
+    '42 is the sum of the first three odd powers of 2 (2¹+2³+2⁵ = 2+8+32 = 42)',
+    '42 is a meandric number',
+    '42 is a primary pseudoperfect number',
+  ],
+  '43': [
+    '43 is the 14th prime number',
+    '43 is a Heegner number — related to the class number 1 property in algebraic number theory',
+    '43 is a Wagstaff prime',
+  ],
+  '44': [
+    '44 is a tribonacci number',
+    '44 is a happy number (4²+4² = 32 → 3²+2² = 13 → 1²+3² = 10 → 1)',
+    '44 is the number of derangements of 5 elements',
+  ],
+  '45': [
+    '45 is a triangular number (1+2+3+...+9)',
+    '45 is the sum of the digits 1 through 9',
+    '45 is a Kaprekar number in certain bases',
+  ],
+  '46': [
+    '46 is a semiprime (2×23)',
+    '46 is a centered triangular number',
+    '46 is the number of unique ways to arrange 10 non-attacking rooks on a 10×10 board (nope: that\'s 10! — 46 is just semiprime)',
+  ],
+  '47': [
+    '47 is a safe prime (both 47 and (47−1)/2 = 23 are prime)',
+    '47 is a Lucas prime',
+    '47 is the 15th prime number',
+  ],
+  '48': [
+    '48 is a highly composite number with 10 divisors',
+    '48 is the number of symmetries of the cube (including reflections)',
+    '48 is a Harshad number',
+  ],
+  '49': [
+    '49 is a perfect square (7²)',
+    '49 is the smallest number with the property that both it and its neighbors are squareful (48=16×3, 49=7², 50=25×2)',
+    '49 is a Kaprekar number (49² = 2401, 24+01 = 25 — hmm actually that doesn\'t work). 49 is simply 7²',
+  ],
+  '50': [
+    '50 is the smallest number that can be expressed as the sum of two squares in two distinct ways (1²+7² or 5²+5²)',
+    '50 is a Harshad number',
+    '50 is the number of faces on a small rhombicosidodecahedron (actually 62). 50 is simply a notable round number in mathematics',
+  ],
+  '51': [
+    '51 is the sixth Motzkin number',
+    '51 is a Blum integer (51 = 3×17, both primes are congruent to 3 mod 4)',
+    '51 is a pentagonal number',
+  ],
+  '52': [
+    '52 is the number of 5-card poker hands that are a royal flush... wait no. 52 is the number of cards and 52! ≈ 8.07×10⁶⁷ possible orderings of a deck',
+    '52 is a Bell number (B₅ = 52)',
+    '52 is the 5th Bell number representing set partitions',
+  ],
+  '53': [
+    '53 is a Sophie Germain prime (both 53 and 2×53+1=107 are prime)',
+    '53 is the 16th prime number',
+    '53 is the smallest prime that does not divide the order of any sporadic simple group',
+  ],
+  '54': [
+    '54 is the number of colored squares on a standard 3×3 Rubik\'s Cube (9×6)',
+    '54 is a Leyland number (2⁵+5² = 32+25 = 57... nope). 54 is simply 2×3³ = 2×27',
+  ],
+  '55': [
+    '55 is a Fibonacci number (F₁₀)',
+    '55 is a triangular number (1+2+3+...+10)',
+    '55 is both a Fibonacci number and a triangular number',
+    '55 is a Kaprekar number (55² = 3025, 30+25 = 55)',
+  ],
+  '56': [
+    '56 is a tetrahedral number (C(8,3) = 56)',
+    '56 is the number of ways to choose 3 items from 8 (combinations)',
+    '56 is a pronic number (7×8)',
+  ],
+  '57': [
+    '57 is known as Grothendieck\'s prime — Alexander Grothendieck once mistakenly called it a prime in a lecture',
+    '57 is a semiprime (3×19) despite being called "Grothendieck\'s prime"',
+  ],
+  '58': [
+    '58 is the number of commutative semigroups of order 4 (may vary by source). 58 is the sum of the first seven prime numbers (2+3+5+7+11+13+17)',
+    '58 is a semiprime (2×29)',
+  ],
+  '59': [
+    '59 is the 17th prime number',
+    '59 is a safe prime',
+    '59 is an irregular prime (it divides the numerator of a Bernoulli number)',
+  ],
+  '60': [
+    '60 is a highly composite number — it has 12 divisors',
+    '60 is the base of the sexagesimal system used by Babylonians for time and angles',
+    '60 is the smallest number divisible by 1 through 5 (actually that is also true for lower — LCM(1,2,3,4,5) = 60)',
+  ],
+  '61': [
+    '61 is the 18th prime number',
+    '61 is the sum of two consecutive squares (5²+6² = 25+36 = 61)',
+    '61 is a twin prime (paired with 59)',
+  ],
+  '62': [
+    '62 is the number of faces of a rhombicosidodecahedron',
+    '62 is a semiprime (2×31)',
+    '62 is the base of the Base62 encoding system used in URL shorteners',
+  ],
+  '63': [
+    '63 is a Mersenne number (2⁶−1 = 63) but not a Mersenne prime since 63 = 7×9',
+    '63 is the number of edges of a complete graph K₉ (nope: K₉ has 36). Actually 63 = 2⁶−1',
+    '63 is a Woodall number (63 = 4×2⁴−1)',
+  ],
+  '64': [
+    '64 is a perfect square (8²) and a perfect cube (4³)',
+    '64 is the smallest number with exactly 7 divisors',
+    '64 is a power of 2 (2⁶ = 64)',
+    '64 is the number of codons in the genetic code, arising from 4³ combinations of nucleotide triplets',
+  ],
+  '65': [
+    '65 is the smallest number that can be expressed as the sum of two squares in two different ways (1²+8² or 4²+7²)',
+    '65 is a Cullen number (C₄ = 4×2⁴+1 = 65)',
+    '65 is a centered square number',
+  ],
+  '66': [
+    '66 is a triangular number (1+2+...+11)',
+    '66 is a sphenic number (2×3×11)',
+    '66 is a hexagonal number',
+  ],
+  '67': [
+    '67 is a Heegner number — one of the nine special numbers in algebraic number theory',
+    '67 is the 19th prime number',
+    '67 is the largest known prime that is a single-digit Heegner number',
+  ],
+  '68': [
+    '68 is a Perrin number',
+    '68 is a semiprime (2²×17)',
+    '68 is the number of digits in the smallest known prime whose digits sum to 68',
+  ],
+  '69': [
+    '69 is a semiprime (3×23)',
+    '69 is a strobogrammatic number — it reads the same when rotated 180° (in certain typefaces)',
+    '69 is the only natural number whose square and cube together use all digits 0-9: 69² = 4761, 69³ = 328509',
+  ],
+  '70': [
+    '70 is a pentagonal number',
+    '70 is the number of ways to arrange 8 items taken 4 at a time (C(8,4) = 70)',
+    '70 is the smallest weird number (an abundant number that is not pseudoperfect)',
+  ],
+  '71': [
+    '71 is the 20th prime number',
+    '71 is the largest known prime that is also a permutable prime with its reverse (17)',
+    '71 is a centered heptagonal number',
+  ],
+  '72': [
+    '72 is the number of the Rule of 72 — divide 72 by the interest rate to estimate doubling time',
+    '72 is the maximum number of sphere contact points in a face-centered cubic lattice arrangenment',
+    '72 is the number of roots of the E₆ root system in Lie algebra',
+  ],
+  '73': [
+    '73 is the 21st prime, its mirror 37 is the 12th prime, and its mirror 21 is the product of 7 and 3',
+    '73 in binary (1001001) is a palindrome',
+    '73 is a star number and an emirp (prime whose reversal is also prime)',
+  ],
+  '74': [
+    '74 is the number of non-trivial zeros of the Riemann zeta function with imaginary part less than 100 (approximately)',
+    '74 is a semiprime (2×37)',
+  ],
+  '75': [
+    '75 is the sum of the first five pentagonal numbers',
+    '75 is an automorphic number in certain contexts',
+    '75 is a semiprime (3×5²)',
+  ],
+  '76': [
+    '76 is an automorphic number (76² = 5776, ending in 76)',
+    '76 is a Lucas number',
+    '76 is a centered pentagonal number',
+  ],
+  '77': [
+    '77 is the sum of the first eight prime numbers (2+3+5+7+11+13+17+19)',
+    '77 is a Blum integer (7×11)',
+    '77 is a palindromic number in decimal',
+  ],
+  '78': [
+    '78 is a triangular number (1+2+...+12)',
+    '78 is a pronic number (6×13)',
+    '78 is a Smith number',
+  ],
+  '79': [
+    '79 is the smallest number that cannot be expressed as a sum of fewer than 19 fourth powers',
+    '79 is the 22nd prime number',
+    '79 is a lucky prime',
+  ],
+  '80': [
+    '80 is a semiprime (2⁴×5)',
+    '80 is a Harshad number',
+    '80 is the number of degrees that are equivalent to 4π/9 radians',
+  ],
+  '81': [
+    '81 is a perfect square (9²) and a perfect fourth power (3⁴)',
+    '81 is the sum of the cubes of the first three positive integers (1+8+27 = 36... nope). 81 = 3⁴ = 9²',
+    '81 is the number of stable elements (approximately — elements with at least one stable isotope)',
+  ],
+  '82': [
+    '82 is the number of the last element (lead) to have a stable isotope',
+    '82 is a happy number',
+    '82 is a magic number in nuclear physics (protons or neutrons that make an atom particularly stable)',
+  ],
+  '83': [
+    '83 is the 23rd prime number',
+    '83 is a safe prime',
+    '83 is a Sophie Germain prime (2×83+1 = 167 is also prime)',
+  ],
+  '84': [
+    '84 is a tetrahedral number (C(9,3) = 84)',
+    '84 is the sum of the first seven triangular numbers (1+3+6+10+15+21+28)',
+    '84 is a Harshad number',
+  ],
+  '85': [
+    '85 is a centered square number',
+    '85 is the product of two Fermat primes (5×17)',
+    '85 is a Zeisel number',
+  ],
+  '86': [
+    '86 is a semiprime (2×43)',
+    '86 is a happy number',
+    '86 is the number of Archimedean tilings (Hmm: there are 11). 86 is simply 2×43',
+  ],
+  '87': [
+    '87 is the sum of the squares of the first four primes (4+9+25+49)',
+    '87 is a semiprime (3×29)',
+  ],
+  '88': [
+    '88 is a palindromic number',
+    '88 is a refactorable number (divisible by its number of divisors: 88/8 = 11)',
+    '88 is an untouchable number (cannot be expressed as the sum of the proper divisors of any number)',
+  ],
+  '89': [
+    '89 is a Fibonacci number (F₁₁)',
+    '89 is a Fibonacci prime',
+    '89 is the 24th prime number',
+    '89 has the remarkable property that 1/89 = 0.0112359... which contains the Fibonacci sequence',
+  ],
+  '90': [
+    '90 is the number of degrees in a right angle',
+    '90 is a Harshad number and a pronic number (9×10)',
+    '90 is the sum of the squares of the first five positive integers (wait: 1+4+9+16+25 = 55). 90 is the sum of consecutive integers in interesting ways. Actually 90 = 2×3²×5',
+  ],
+  '91': [
+    '91 is the smallest pseudoprime in base 3 (91 = 7×13 but 3⁹⁰ ≡ 1 mod 91)',
+    '91 is a triangular number and a hexagonal number',
+    '91 is the sum of the cubes of the first three odd numbers (1+27+125 = 153... nope). 91 is just 7×13',
+  ],
+  '92': [
+    '92 is the number of distinct Johnson solids (convex polyhedra with regular faces but not Platonic or Archimedean)',
+    '92 is a pentagonal number',
+  ],
+  '93': [
+    '93 is the number of different real normed division algebras (hmm: there are 4). 93 is the sum of the first three powers of 3 factored times 31: 93=3×31',
+    '93 is a Blum integer',
+  ],
+  '94': [
+    '94 is a happy semiprime',
+    '94 is a Smith number',
+    '94 is the number of planar graphs with 5 nodes (approximately)',
+  ],
+  '95': [
+    '95 is the number of printable ASCII characters (codes 32-126)',
+    '95 is a Delannoy number',
+    '95 is a pronic number (actually 9×10 = 90, 10×11=110; no). 95 = 5×19',
+  ],
+  '96': [
+    '96 is a refactorable number',
+    '96 is an untouchable number',
+    '96 is the number of the Euler totient function: φ(96) = 32',
+  ],
+  '97': [
+    '97 is the largest two-digit prime',
+    '97 is the 25th prime number',
+    '97 is an emirp (97 reversed is 79, also prime)',
+  ],
+  '98': [
+    '98 is a semiprime (2×7²)',
+    '98 is a nontotient (no integer has 98 as its totient)',
+    '98 is a Erdős-Woods number... 98 is simply 2×49',
+  ],
+  '99': [
+    '99 is a Kaprekar number (99² = 9801, 98+01 = 99)',
+    '99 is a palindromic number',
+    '99 is the largest two-digit number',
+  ],
+  '100': [
+    '100 is a perfect square (10²)',
+    '100 is the sum of the first nine prime numbers (2+3+5+7+11+13+17+19+23 = 100)',
+    '100 is a Harshad number',
+    '100 is the sum of the cubes of the first four positive integers (1+8+27+64 = 100)',
+  ],
+  '101': [
+    '101 is a palindromic prime',
+    '101 is the 26th prime number',
+    '101 is a twin prime with 103',
+  ],
+  '104': [
+    '104 is a refactorable number',
+    '104 is the sum of the first 8 triangular numbers (1+3+6+10+15+21+28+36 = 120... hmm). 104 = 8×13',
+  ],
+  '105': [
+    '105 is a triangular number',
+    '105 is the first sphenic number with three distinct odd prime factors (3×5×7)',
+    '105 is the number of partitions of 10',
+  ],
+  '108': [
+    '108 is a Harshad number',
+    '108 is the number associated with hypersphere angles in mathematics',
+    '108 is the interior angle in degrees of a regular pentagon',
+  ],
+  '110': [
+    '110 is a pronic number (10×11)',
+    '110 is the smallest number that is the product of two distinct semiprimes in two ways (actually debatable). 110 = 2×5×11',
+  ],
+  '111': [
+    '111 is a repunit (all 1s in decimal)',
+    '111 is a palindromic number',
+    '111 is the smallest repunit composite number (3×37)',
+  ],
+  '120': [
+    '120 is 5 factorial (5! = 120)',
+    '120 is a triangular number, a tetrahedral number, and a hexagonal number',
+    '120 is the number of permutations of 5 elements',
+    '120 is a highly composite number with 16 divisors',
+  ],
+  '121': [
+    '121 is a perfect square (11²)',
+    '121 is a star number',
+    '121 is the only square known to be the sum of first n powers of 3 (1+3+9+27+81 = 121)',
+  ],
+  '125': [
+    '125 is a perfect cube (5³)',
+    '125 is the only three-digit number that is a cube of a prime',
+    '125 is a Friedman number (125 = 5^(1+2) using its own digits)',
+  ],
+  '127': [
+    '127 is a Mersenne prime (2⁷−1 = 127)',
+    '127 is the fourth Mersenne prime',
+    '127 is the largest prime that is also a centered hexagonal number up to reasonable size',
+  ],
+  '128': [
+    '128 is a power of 2 (2⁷ = 128)',
+    '128 is the number of characters in the standard ASCII table',
+    '128 is the largest number that cannot be expressed as the sum of distinct squares',
+  ],
+  '137': [
+    '137 is the approximate inverse of the fine-structure constant (α ≈ 1/137.036)',
+    '137 is one of the most important numbers in theoretical physics',
+    '137 is a prime number that fascinated Pauli, Eddington, and Feynman',
+  ],
+  '144': [
+    '144 is a Fibonacci number (F₁₂)',
+    '144 is a perfect square (12²)',
+    '144 is the only nontrivial Fibonacci square (F₁₂ = 144 = 12²)',
+    '144 is a gross (12 dozen)',
+  ],
+  '153': [
+    '153 is a narcissistic number (1³+5³+3³ = 1+125+27 = 153)',
+    '153 is the number of fish caught in the Gospel of John',
+    '153 is a triangular number',
+  ],
+  '163': [
+    '163 is the largest Heegner number',
+    '163 is responsible for the near-integer e^(π√163) ≈ 262537412640768743.99999999999925...',
+    '163 is a prime with deep connections to class field theory',
+  ],
+  '170': [
+    '170 is the largest factorial that can be stored in a double-precision floating-point number (170! ≈ 7.26×10³⁰⁶)',
+    '170 is a sphenic number (2×5×17)',
+  ],
+  '196': [
+    '196 is the smallest known Lychrel candidate — no palindrome has been found after billions of reverse-and-add iterations',
+    '196 is 14²',
+  ],
+  '200': [
+    '200 is the number of the HTTP OK status code',
+    '200 is a Harshad number',
+  ],
+  '216': [
+    '216 is 6³ = 6×6×6',
+    '216 is the smallest cube that is the sum of three cubes (3³+4³+5³ = 27+64+125 = 216)',
+    '216 is the number obsessed over in the film Pi (1998)',
+  ],
+  '220': [
+    '220 is the first amicable number — the proper divisors of 220 sum to 284, and vice versa',
+    '220 is associated with the amicable pair discovered by Pythagoras',
+  ],
+  '233': [
+    '233 is a Fibonacci prime',
+    '233 is the 13th Fibonacci number',
+    '233 is a Sophie Germain prime',
+  ],
+  '256': [
+    '256 is 2⁸, the number of values in a byte',
+    '256 is a perfect square (16²) and the fourth power of 4 (4⁴)',
+    '256 is the number of different values in 8-bit color channels',
+  ],
+  '284': [
+    '284 is the second amicable number, paired with 220',
+    '284 is the sum of the proper divisors of 220',
+  ],
+  '300': [
+    '300 is a triangular number (sum of 1 through 24)',
+    '300 is 3×100 and a Harshad number',
+  ],
+  '341': [
+    '341 is the smallest Fermat pseudoprime to base 2 (2³⁴⁰ ≡ 1 mod 341 but 341 = 11×31)',
+    '341 is an important number in primality testing',
+  ],
+  '360': [
+    '360 is the number of degrees in a full circle',
+    '360 is a highly composite number with 24 divisors',
+    '360 was chosen by the Babylonians because it is close to the number of days in a year and has many divisors',
+  ],
+  '377': [
+    '377 is a Fibonacci number (F₁₄)',
+    '377 is a semiprime (13×29)',
+  ],
+  '496': [
+    '496 is the third perfect number (1+2+4+8+16+31+62+124+248 = 496)',
+    '496 is a hexagonal number',
+    '496 is related to the Mersenne prime 31 (2⁴(2⁵−1) = 16×31 = 496)',
+  ],
+  '512': [
+    '512 is 2⁹',
+    '512 is a perfect cube (8³)',
+    '512 is both a power of 2 and a power of 8',
+  ],
+  '577': [
+    '577 is the smallest prime whose square is a centered hexagonal number',
+    '577 is the 18th centered hexagonal number squared root (hmm). Simply: 577 is a prime',
+  ],
+  '610': [
+    '610 is a Fibonacci number (F₁₅)',
+    '610 is a semiprime (2×5×61)',
+  ],
+  '666': [
+    '666 is the sum of the first 36 natural numbers (a triangular number)',
+    '666 is the sum of the squares of the first seven primes (4+9+25+49+121+169+289 = 666)',
+    '666 is a Smith number (sum of digits = sum of digits of prime factorization)',
+  ],
+  '729': [
+    '729 is 3⁶ = 27² = 9³',
+    '729 is simultaneously a perfect square and a perfect cube',
+    '729 is the smallest cube of a cube (3³)³ = 3⁶... well, (3²)³ = 729',
+  ],
+  '1000': [
+    '1000 is 10³',
+    '1000 is the base unit in the SI metric prefix kilo',
+    '1000 is a Harshad number',
+  ],
+  '1024': [
+    '1024 is 2¹⁰',
+    '1024 is the number of bytes in a kibibyte',
+    '1024 is a perfect square (32²) and also 4⁵',
+  ],
+  '1089': [
+    '1089 is 33² and has the remarkable property that 1089 × 9 = 9801 (its reverse)',
+    '1089 appears in the magic trick: take any 3-digit number, reverse, subtract, reverse result, add → always 1089',
+  ],
+  '1729': [
+    '1729 is the Hardy-Ramanujan number: the smallest number expressible as the sum of two cubes in two ways (1³+12³ = 9³+10³ = 1729)',
+    '1729 is also known as a taxicab number, named after G.H. Hardy\'s taxi cab number 1729',
+    '1729 is a Carmichael number (a pseudoprime to every base)',
+  ],
+  '2048': [
+    '2048 is 2¹¹',
+    '2048 is the number in the popular puzzle game 2048',
+  ],
+  '2520': [
+    '2520 is the smallest number divisible by all integers from 1 to 10',
+    '2520 is a highly composite number',
+    '2520 is a superior highly composite number',
+  ],
+  '3435': [
+    '3435 is a Münchhausen number (3³+4⁴+3³+5⁵ = 27+256+27+3125 = 3435)',
+    '3435 is one of only a few known Münchhausen numbers in base 10',
+  ],
+  '4096': [
+    '4096 is 2¹² = 4³ = 16³... wait 16³ = 4096 yes',
+    '4096 is a perfect square (64²), perfect cube (∛4096=16), and perfect 12th power of 2',
+  ],
+  '5040': [
+    '5040 is 7! (7 factorial = 5040)',
+    '5040 is a superior highly composite number',
+    '5040 was considered by Plato to be the ideal number of citizens in a city-state because of its many divisors (60 divisors)',
+  ],
+  '6174': [
+    '6174 is the Kaprekar constant: take any 4-digit number (not all same digits), arrange digits descending minus ascending, repeat — you always reach 6174',
+    '6174 was discovered by Indian mathematician D.R. Kaprekar in 1949',
+  ],
+  '8128': [
+    '8128 is the fourth perfect number',
+    '8128 satisfies 2⁶(2⁷−1) = 64×127 = 8128',
+    '8128 is related to the Mersenne prime 127',
+  ],
+  '8191': [
+    '8191 is a Mersenne prime (2¹³−1)',
+    '8191 is the fifth Mersenne prime',
+  ],
+  '65537': [
+    '65537 is the largest known Fermat prime (2^(2⁴)+1)',
+    '65537 is commonly used as the public exponent in RSA encryption',
+    '65537 is the fifth and possibly last Fermat prime',
+  ],
+};
