@@ -57,7 +57,7 @@ export const mathFacts: Record<string, string[]> = {
     '9 is the first odd perfect square (3² = 9)',
     '9 is a magic number: any number multiplied by 9 has digits summing to 9',
     '9 is the number of edges of a complete graph on 4 vertices (K₃ actually has 3; K₄ has 6; correction: K₃ has 3)',
-    '9 is the maximum number of cubes needed to sum to any positive integer (Waring\'s problem for cubes)',
+    "9 is the maximum number of cubes needed to sum to any positive integer (Waring's problem for cubes)",
   ],
   '10': [
     '10 is the base of our decimal number system',
@@ -108,11 +108,11 @@ export const mathFacts: Record<string, string[]> = {
   '18': [
     '18 is a heptagonal number',
     '18 is the only number that is twice the sum of its digits (1+8 = 9, 9×2 = 18)',
-    '18 is the number of edges of a complete graph on 6 vertices (nope: K₆ has 15). Actually 18 is the number of edges of the Petersen graph — no, that\'s 15. 18 = number of edges of prism graph Y₆',
+    "18 is the number of edges of a complete graph on 6 vertices (nope: K₆ has 15). Actually 18 is the number of edges of the Petersen graph — no, that's 15. 18 = number of edges of prism graph Y₆",
   ],
   '19': [
     '19 is a centered hexagonal number',
-    '19 is the number of the Baha\'i calendar months in a year (19 months of 19 days)',
+    "19 is the number of the Baha'i calendar months in a year (19 months of 19 days)",
     '19 is a prime number that appears in many mathematical structures',
   ],
   '20': [
@@ -154,7 +154,7 @@ export const mathFacts: Record<string, string[]> = {
   ],
   '27': [
     '27 is a perfect cube (3³)',
-    '27 is the number of possible cubies in a Rubik\'s Cube',
+    "27 is the number of possible cubies in a Rubik's Cube",
     '27 is the largest number that is the sum of the digits of its cube (27³ = 19683, 1+9+6+8+3 = 27)',
     '27 is a Smith number (sum of digits = sum of digits of prime factorization)',
   ],
@@ -229,7 +229,7 @@ export const mathFacts: Record<string, string[]> = {
     '40 is a Harshad number (divisible by the sum of its digits: 4+0=4)',
   ],
   '41': [
-    '41 is the first number in Euler\'s famous prime-generating polynomial n²+n+41 (which gives primes for n=0 to 39)',
+    "41 is the first number in Euler's famous prime-generating polynomial n²+n+41 (which gives primes for n=0 to 39)",
     '41 is the 13th prime number',
     '41 is a Newman-Shanks-Williams prime',
   ],
@@ -258,7 +258,7 @@ export const mathFacts: Record<string, string[]> = {
   '46': [
     '46 is a semiprime (2×23)',
     '46 is a centered triangular number',
-    '46 is the number of unique ways to arrange 10 non-attacking rooks on a 10×10 board (nope: that\'s 10! — 46 is just semiprime)',
+    "46 is the number of unique ways to arrange 10 non-attacking rooks on a 10×10 board (nope: that's 10! — 46 is just semiprime)",
   ],
   '47': [
     '47 is a safe prime (both 47 and (47−1)/2 = 23 are prime)',
@@ -273,7 +273,7 @@ export const mathFacts: Record<string, string[]> = {
   '49': [
     '49 is a perfect square (7²)',
     '49 is the smallest number with the property that both it and its neighbors are squareful (48=16×3, 49=7², 50=25×2)',
-    '49 is a Kaprekar number (49² = 2401, 24+01 = 25 — hmm actually that doesn\'t work). 49 is simply 7²',
+    "49 is a Kaprekar number (49² = 2401, 24+01 = 25 — hmm actually that doesn't work). 49 is simply 7²",
   ],
   '50': [
     '50 is the smallest number that can be expressed as the sum of two squares in two distinct ways (1²+7² or 5²+5²)',
@@ -296,7 +296,7 @@ export const mathFacts: Record<string, string[]> = {
     '53 is the smallest prime that does not divide the order of any sporadic simple group',
   ],
   '54': [
-    '54 is the number of colored squares on a standard 3×3 Rubik\'s Cube (9×6)',
+    "54 is the number of colored squares on a standard 3×3 Rubik's Cube (9×6)",
     '54 is a Leyland number (2⁵+5² = 32+25 = 57... nope). 54 is simply 2×3³ = 2×27',
   ],
   '55': [
@@ -311,7 +311,7 @@ export const mathFacts: Record<string, string[]> = {
     '56 is a pronic number (7×8)',
   ],
   '57': [
-    '57 is known as Grothendieck\'s prime — Alexander Grothendieck once mistakenly called it a prime in a lecture',
+    "57 is known as Grothendieck's prime — Alexander Grothendieck once mistakenly called it a prime in a lecture",
     '57 is a semiprime (3×19) despite being called "Grothendieck\'s prime"',
   ],
   '58': [
@@ -610,10 +610,7 @@ export const mathFacts: Record<string, string[]> = {
     '196 is the smallest known Lychrel candidate — no palindrome has been found after billions of reverse-and-add iterations',
     '196 is 14²',
   ],
-  '200': [
-    '200 is the number of the HTTP OK status code',
-    '200 is a Harshad number',
-  ],
+  '200': ['200 is the number of the HTTP OK status code', '200 is a Harshad number'],
   '216': [
     '216 is 6³ = 6×6×6',
     '216 is the smallest cube that is the sum of three cubes (3³+4³+5³ = 27+64+125 = 216)',
@@ -637,10 +634,7 @@ export const mathFacts: Record<string, string[]> = {
     '284 is the second amicable number, paired with 220',
     '284 is the sum of the proper divisors of 220',
   ],
-  '300': [
-    '300 is a triangular number (sum of 1 through 24)',
-    '300 is 3×100 and a Harshad number',
-  ],
+  '300': ['300 is a triangular number (sum of 1 through 24)', '300 is 3×100 and a Harshad number'],
   '341': [
     '341 is the smallest Fermat pseudoprime to base 2 (2³⁴⁰ ≡ 1 mod 341 but 341 = 11×31)',
     '341 is an important number in primality testing',
@@ -650,28 +644,18 @@ export const mathFacts: Record<string, string[]> = {
     '360 is a highly composite number with 24 divisors',
     '360 was chosen by the Babylonians because it is close to the number of days in a year and has many divisors',
   ],
-  '377': [
-    '377 is a Fibonacci number (F₁₄)',
-    '377 is a semiprime (13×29)',
-  ],
+  '377': ['377 is a Fibonacci number (F₁₄)', '377 is a semiprime (13×29)'],
   '496': [
     '496 is the third perfect number (1+2+4+8+16+31+62+124+248 = 496)',
     '496 is a hexagonal number',
     '496 is related to the Mersenne prime 31 (2⁴(2⁵−1) = 16×31 = 496)',
   ],
-  '512': [
-    '512 is 2⁹',
-    '512 is a perfect cube (8³)',
-    '512 is both a power of 2 and a power of 8',
-  ],
+  '512': ['512 is 2⁹', '512 is a perfect cube (8³)', '512 is both a power of 2 and a power of 8'],
   '577': [
     '577 is the smallest prime whose square is a centered hexagonal number',
     '577 is the 18th centered hexagonal number squared root (hmm). Simply: 577 is a prime',
   ],
-  '610': [
-    '610 is a Fibonacci number (F₁₅)',
-    '610 is a semiprime (2×5×61)',
-  ],
+  '610': ['610 is a Fibonacci number (F₁₅)', '610 is a semiprime (2×5×61)'],
   '666': [
     '666 is the sum of the first 36 natural numbers (a triangular number)',
     '666 is the sum of the squares of the first seven primes (4+9+25+49+121+169+289 = 666)',
@@ -698,13 +682,10 @@ export const mathFacts: Record<string, string[]> = {
   ],
   '1729': [
     '1729 is the Hardy-Ramanujan number: the smallest number expressible as the sum of two cubes in two ways (1³+12³ = 9³+10³ = 1729)',
-    '1729 is also known as a taxicab number, named after G.H. Hardy\'s taxi cab number 1729',
+    "1729 is also known as a taxicab number, named after G.H. Hardy's taxi cab number 1729",
     '1729 is a Carmichael number (a pseudoprime to every base)',
   ],
-  '2048': [
-    '2048 is 2¹¹',
-    '2048 is the number in the popular puzzle game 2048',
-  ],
+  '2048': ['2048 is 2¹¹', '2048 is the number in the popular puzzle game 2048'],
   '2520': [
     '2520 is the smallest number divisible by all integers from 1 to 10',
     '2520 is a highly composite number',
@@ -732,10 +713,7 @@ export const mathFacts: Record<string, string[]> = {
     '8128 satisfies 2⁶(2⁷−1) = 64×127 = 8128',
     '8128 is related to the Mersenne prime 127',
   ],
-  '8191': [
-    '8191 is a Mersenne prime (2¹³−1)',
-    '8191 is the fifth Mersenne prime',
-  ],
+  '8191': ['8191 is a Mersenne prime (2¹³−1)', '8191 is the fifth Mersenne prime'],
   '65537': [
     '65537 is the largest known Fermat prime (2^(2⁴)+1)',
     '65537 is commonly used as the public exponent in RSA encryption',

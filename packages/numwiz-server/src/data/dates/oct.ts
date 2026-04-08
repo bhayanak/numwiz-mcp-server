@@ -1,10 +1,10 @@
 export const octFacts: Record<string, string[]> = {
   '10/1': [
-    'On October 1, 1949, Mao Zedong proclaimed the People\'s Republic of China',
+    "On October 1, 1949, Mao Zedong proclaimed the People's Republic of China",
     'On October 1, 1908, Henry Ford introduced the Model T automobile at $825',
     'On October 1, 1971, Walt Disney World opened in Orlando, Florida',
     'October 1 is the International Day of Older Persons',
-    'On October 1, 1953, Andhra Pradesh was formed as India\'s first state created on a linguistic basis, honoring the demand for a Telugu-speaking state',
+    "On October 1, 1953, Andhra Pradesh was formed as India's first state created on a linguistic basis, honoring the demand for a Telugu-speaking state",
   ],
   '10/2': [
     'On October 2, 1869, Mahatma Gandhi was born in Porbandar, India',
@@ -25,7 +25,7 @@ export const octFacts: Record<string, string[]> = {
     'On October 4, 1582, the Gregorian calendar was introduced, jumping from October 4 to October 15',
     'On October 4, 1927, work began on carving Mount Rushmore',
     'October 4 is World Animal Day, coinciding with the feast day of St. Francis of Assisi',
-    'On October 4, 1957, Sputnik was launched; India\'s space pioneer Vikram Sarabhai was inspired to establish India\'s own space program, founding ISRO',
+    "On October 4, 1957, Sputnik was launched; India's space pioneer Vikram Sarabhai was inspired to establish India's own space program, founding ISRO",
   ],
   '10/5': [
     'On October 5, 2011, Steve Jobs, co-founder of Apple, died at age 56',
@@ -39,7 +39,7 @@ export const octFacts: Record<string, string[]> = {
     'On October 6, 1927, The Jazz Singer premiered — the first full-length talkie film',
     'On October 6, 1995, the first exoplanet orbiting a Sun-like star (51 Pegasi b) was discovered',
     'On October 6, 1889, Thomas Edison showed his first motion picture',
-    'On October 6, 1927, The Jazz Singer premiered; Indian cinema\'s first talkie, \'Alam Ara,\' would be released just four years later in 1931',
+    "On October 6, 1927, The Jazz Singer premiered; Indian cinema's first talkie, 'Alam Ara,' would be released just four years later in 1931",
   ],
   '10/7': [
     'On October 7, 2001, the US-led invasion of Afghanistan began in response to the 9/11 attacks',
@@ -78,10 +78,10 @@ export const octFacts: Record<string, string[]> = {
   ],
   '10/12': [
     'On October 12, 1492, Christopher Columbus first sighted land in the Americas (an island in the Bahamas)',
-    'On October 12, 1999, the world\'s population officially reached 6 billion',
+    "On October 12, 1999, the world's population officially reached 6 billion",
     'On October 12, 1773, the first hospital for the treatment of mental illness in America opened in Virginia',
     'On October 12, 1964, the Soviet Union launched Voskhod 1, the first multi-person spacecraft',
-    'On October 12, 1999, India\'s population officially crossed one billion people, making it the second country after China to reach this milestone',
+    "On October 12, 1999, India's population officially crossed one billion people, making it the second country after China to reach this milestone",
   ],
   '10/13': [
     'On October 13, 1307, King Philip IV of France arrested hundreds of Knights Templar (origin of Friday the 13th superstition)',
@@ -102,14 +102,14 @@ export const octFacts: Record<string, string[]> = {
     'On October 15, 1878, the Edison Electric Light Company was incorporated',
     'On October 15, 2003, China launched its first crewed space mission (Shenzhou 5)',
     'On October 15, 1815, Napoleon began his exile on Saint Helena',
-    'On October 15, 1931, A.P.J. Abdul Kalam, the \'Missile Man of India\' who became India\'s 11th President, was born in Rameswaram, Tamil Nadu',
+    "On October 15, 1931, A.P.J. Abdul Kalam, the 'Missile Man of India' who became India's 11th President, was born in Rameswaram, Tamil Nadu",
   ],
   '10/16': [
     'On October 16, 1793, Marie Antoinette was executed by guillotine during the French Revolution',
     'On October 16, 1846, ether was first publicly demonstrated as a surgical anesthetic at Massachusetts General Hospital',
     'On October 16, 1964, China conducted its first nuclear weapons test',
     'October 16 is World Food Day',
-    'On October 16, 1905, Lord Curzon\'s Partition of Bengal took effect, sparking the Swadeshi Movement — a massive boycott of British goods across India',
+    "On October 16, 1905, Lord Curzon's Partition of Bengal took effect, sparking the Swadeshi Movement — a massive boycott of British goods across India",
   ],
   '10/17': [
     'On October 17, 1989, the Loma Prieta earthquake struck the San Francisco Bay Area during the World Series',
@@ -121,9 +121,9 @@ export const octFacts: Record<string, string[]> = {
   '10/18': [
     'On October 18, 1867, the US took formal possession of Alaska from Russia',
     'On October 18, 1922, the BBC was founded',
-    'On October 18, 1851, Herman Melville\'s Moby-Dick was first published in London',
+    "On October 18, 1851, Herman Melville's Moby-Dick was first published in London",
     'On October 18, 1009, the Church of the Holy Sepulchre in Jerusalem was destroyed by the Fatimid Caliph',
-    'On October 18, 1356, the Black Prince won the Battle of Poitiers; India\'s Delhi Sultanate under the Tughlaq dynasty was facing its own political turmoil',
+    "On October 18, 1356, the Black Prince won the Battle of Poitiers; India's Delhi Sultanate under the Tughlaq dynasty was facing its own political turmoil",
   ],
   '10/19': [
     'On October 19, 1987, "Black Monday" — the Dow Jones fell 22.6%, the largest one-day percentage drop in history',
@@ -140,7 +140,7 @@ export const octFacts: Record<string, string[]> = {
     'On October 20, 1962, the Sino-Indian War began when China launched a massive attack on India across the McMahon Line in the northeast and Aksai Chin in the west',
   ],
   '10/21': [
-    'On October 21, 1805, the Battle of Trafalgar: Admiral Nelson\'s fleet defeated the combined French and Spanish navies',
+    "On October 21, 1805, the Battle of Trafalgar: Admiral Nelson's fleet defeated the combined French and Spanish navies",
     'On October 21, 1879, Thomas Edison demonstrated a practical incandescent light bulb that lasted 13.5 hours',
     'On October 21, 2015, is "Back to the Future Day" — the date Marty McFly traveled to in Back to the Future Part II',
     'On October 21, 1797, the frigate USS Constitution was launched — "Old Ironsides"',
@@ -154,7 +154,7 @@ export const octFacts: Record<string, string[]> = {
     'On October 22, 1947, Pakistan-backed tribal militias invaded Kashmir — India airlifted troops to Srinagar after Maharaja Hari Singh signed the Instrument of Accession',
   ],
   '10/23': [
-    'October 23 is Mole Day in chemistry, celebrating Avogadro\'s number (6.02×10²³)',
+    "October 23 is Mole Day in chemistry, celebrating Avogadro's number (6.02×10²³)",
     'On October 23, 1956, the Hungarian Revolution against Soviet control began',
     'On October 23, 4004 BC, is the date of creation calculated by Archbishop Ussher in the 17th century',
     'On October 23, 1929, the first major stock market crash of 1929 (Black Wednesday) began',
@@ -169,10 +169,10 @@ export const octFacts: Record<string, string[]> = {
   ],
   '10/25': [
     'On October 25, 1854, the Charge of the Light Brigade occurred during the Battle of Balaclava in the Crimean War',
-    'On October 25, 1971, the United Nations voted to seat the People\'s Republic of China and expel Taiwan',
-    'On October 25, 1415, the Battle of Agincourt: Henry V\'s English army defeated a much larger French force',
+    "On October 25, 1971, the United Nations voted to seat the People's Republic of China and expel Taiwan",
+    "On October 25, 1415, the Battle of Agincourt: Henry V's English army defeated a much larger French force",
     'On October 25, 1881, Pablo Picasso was born in Málaga, Spain',
-    'On October 25, 1951, the first general election in India began — the world\'s largest democratic exercise, with 173 million eligible voters',
+    "On October 25, 1951, the first general election in India began — the world's largest democratic exercise, with 173 million eligible voters",
   ],
   '10/26': [
     'On October 26, 1881, the Gunfight at the O.K. Corral took place in Tombstone, Arizona',
@@ -190,30 +190,30 @@ export const octFacts: Record<string, string[]> = {
   ],
   '10/28': [
     'On October 28, 1886, the Statue of Liberty was dedicated by President Grover Cleveland',
-    'On October 28, 1922, Benito Mussolini\'s March on Rome brought fascism to power in Italy',
+    "On October 28, 1922, Benito Mussolini's March on Rome brought fascism to power in Italy",
     'On October 28, 1962, the Cuban Missile Crisis ended when Khrushchev agreed to remove Soviet missiles from Cuba',
     'On October 28, 1636, Harvard University was founded — the oldest institution of higher education in the US',
-    'On October 28, 1927, the Simon Commission was appointed by Britain; its all-British membership outraged Indians, sparking \'Simon Go Back\' protests across India',
+    "On October 28, 1927, the Simon Commission was appointed by Britain; its all-British membership outraged Indians, sparking 'Simon Go Back' protests across India",
   ],
   '10/29': [
     'On October 29, 1929, "Black Tuesday" — the worst day of the stock market crash, triggering the Great Depression',
     'On October 29, 1969, the first ARPANET message was sent from UCLA to Stanford, launching the internet',
     'On October 29, 1998, John Glenn returned to space at age 77 aboard the Space Shuttle Discovery',
-    'On October 29, 1787, Mozart\'s opera Don Giovanni premiered in Prague',
-    'On October 29, 1929, the Wall Street Crash triggered the Great Depression; India\'s economy, heavily dependent on British markets, was severely affected',
+    "On October 29, 1787, Mozart's opera Don Giovanni premiered in Prague",
+    "On October 29, 1929, the Wall Street Crash triggered the Great Depression; India's economy, heavily dependent on British markets, was severely affected",
   ],
   '10/30': [
-    'On October 30, 1938, Orson Welles\' War of the Worlds radio broadcast caused widespread panic',
+    "On October 30, 1938, Orson Welles' War of the Worlds radio broadcast caused widespread panic",
     'On October 30, 1945, the United States joined the United Nations',
     'On October 30, 1735, John Adams, second US President, was born in Braintree, Massachusetts',
-    'On October 30, 1975, Prince Juan Carlos took over as Spain\'s head of state, beginning the transition to democracy',
-    'On October 30, 1909, Homi Jehangir Bhabha, the father of India\'s nuclear program who founded TIFR and India\'s Atomic Energy Commission, was born in Mumbai',
+    "On October 30, 1975, Prince Juan Carlos took over as Spain's head of state, beginning the transition to democracy",
+    "On October 30, 1909, Homi Jehangir Bhabha, the father of India's nuclear program who founded TIFR and India's Atomic Energy Commission, was born in Mumbai",
   ],
   '10/31': [
     'October 31 is Halloween, originating from the ancient Celtic festival of Samhain',
     'On October 31, 1517, Martin Luther reportedly posted his 95 Theses, though the date is traditional',
     'On October 31, 1941, Mount Rushmore was completed after 14 years of carving',
     'On October 31, 2000, the first resident crew arrived at the International Space Station',
-    'October 31 is observed as Rashtriya Ekta Diwas (National Unity Day) in India, commemorating the birthday of Sardar Vallabhbhai Patel (born 1875), India\'s \'Iron Man\'',
+    "October 31 is observed as Rashtriya Ekta Diwas (National Unity Day) in India, commemorating the birthday of Sardar Vallabhbhai Patel (born 1875), India's 'Iron Man'",
   ],
 };

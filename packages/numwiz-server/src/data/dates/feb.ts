@@ -18,7 +18,7 @@ export const febFacts: Record<string, string[]> = {
     'On February 3, 1870, the 15th Amendment was ratified, granting voting rights regardless of race',
     'On February 3, 1966, the Soviet Luna 9 became the first spacecraft to achieve a soft landing on the Moon',
     'On February 3, 1913, the 16th Amendment was ratified, establishing the federal income tax in the US',
-    'On February 3, 1966, India\'s first lunar calendar satellite, Rohini, concept was initiated under scientist Vikram Sarabhai\'s leadership',
+    "On February 3, 1966, India's first lunar calendar satellite, Rohini, concept was initiated under scientist Vikram Sarabhai's leadership",
   ],
   '2/4': [
     'On February 4, 2004, Mark Zuckerberg launched Facebook from his Harvard dorm room',
@@ -44,7 +44,7 @@ export const febFacts: Record<string, string[]> = {
   '2/7': [
     'On February 7, 1964, the Beatles arrived in America for the first time, met by thousands of fans at JFK Airport',
     'On February 7, 1812, Charles Dickens was born in Portsmouth, England',
-    'On February 7, 1979, Pluto moved inside Neptune\'s orbit, where it would remain until 1999',
+    "On February 7, 1979, Pluto moved inside Neptune's orbit, where it would remain until 1999",
     'On February 7, 1497, supporters of Girolamo Savonarola burned cosmetics and art in the "Bonfire of the Vanities" in Florence',
     'On February 7, 1992, the Indian Parliament ratified the Mandal Commission recommendations, extending reservations for Other Backward Classes',
   ],
@@ -64,7 +64,7 @@ export const febFacts: Record<string, string[]> = {
   ],
   '2/10': [
     'On February 10, 1840, Queen Victoria married Prince Albert of Saxe-Coburg-Gotha',
-    'On February 10, 1996, IBM\'s Deep Blue defeated world chess champion Garry Kasparov for the first time',
+    "On February 10, 1996, IBM's Deep Blue defeated world chess champion Garry Kasparov for the first time",
     'On February 10, 1942, the first Gold Record was presented to Glenn Miller for "Chattanooga Choo Choo"',
     'On February 10, 1863, Alanson Crane patented the fire extinguisher',
     'On February 10, 1763, the Treaty of Paris ended French colonial ambitions in India, confirming British dominance over the subcontinent',
@@ -74,13 +74,13 @@ export const febFacts: Record<string, string[]> = {
     'On February 11, 2016, LIGO announced the first direct detection of gravitational waves',
     'On February 11, 1858, Bernadette of Lourdes reported the first of her Marian apparitions in France',
     'On February 11, 1847, Thomas Edison was born in Milan, Ohio',
-    'On February 11, 2019, India\'s first semi-high-speed train, Vande Bharat Express (Train 18), made its inaugural journey from Delhi to Varanasi',
+    "On February 11, 2019, India's first semi-high-speed train, Vande Bharat Express (Train 18), made its inaugural journey from Delhi to Varanasi",
   ],
   '2/12': [
     'On February 12, 1809, both Abraham Lincoln and Charles Darwin were born on the same day',
-    'On February 12, 1924, George Gershwin\'s Rhapsody in Blue premiered at Aeolian Hall in New York',
+    "On February 12, 1924, George Gershwin's Rhapsody in Blue premiered at Aeolian Hall in New York",
     'On February 12, 2001, the NEAR Shoemaker probe landed on asteroid 433 Eros',
-    'February 12 is celebrated as both Lincoln\'s Birthday and Darwin Day',
+    "February 12 is celebrated as both Lincoln's Birthday and Darwin Day",
     'On February 12, 1879, Sarojini Naidu — who would become a leading Indian independence activist — was born in Hyderabad (per some records)',
   ],
   '2/13': [
@@ -91,11 +91,11 @@ export const febFacts: Record<string, string[]> = {
     'On February 13, 1739, the Persian ruler Nader Shah defeated the Mughal army at the Battle of Karnal, leading to the sack of Delhi',
   ],
   '2/14': [
-    'February 14 is Valentine\'s Day, associated with romantic love since the Middle Ages',
-    'On February 14, 1929, the Saint Valentine\'s Day Massacre occurred in Chicago',
+    "February 14 is Valentine's Day, associated with romantic love since the Middle Ages",
+    "On February 14, 1929, the Saint Valentine's Day Massacre occurred in Chicago",
     'On February 14, 1876, Alexander Graham Bell applied for a patent on the telephone',
     'On February 14, 1990, Voyager 1 took the famous "Pale Blue Dot" photograph of Earth from 6 billion km away',
-    'On February 14, 1876, both Alexander Graham Bell and Elisha Gray filed for the telephone patent; India\'s first telephone line followed in 1882 in Kolkata',
+    "On February 14, 1876, both Alexander Graham Bell and Elisha Gray filed for the telephone patent; India's first telephone line followed in 1882 in Kolkata",
   ],
   '2/15': [
     'On February 15, 1564, Galileo Galilei was born in Pisa, Italy',
@@ -105,7 +105,7 @@ export const febFacts: Record<string, string[]> = {
     'On February 15, 1942, Singapore fell to Japan — the largest British surrender in history, including thousands of Indian soldiers in the British Indian Army',
   ],
   '2/16': [
-    'On February 16, 1923, Howard Carter opened the burial chamber of Tutankhamun\'s tomb',
+    "On February 16, 1923, Howard Carter opened the burial chamber of Tutankhamun's tomb",
     'On February 16, 1959, Fidel Castro became Premier of Cuba',
     'On February 16, 1968, the first 911 emergency phone call was made in Haleyville, Alabama',
     'On February 16, 1804, Lieutenant Stephen Decatur led a daring raid to burn the captured USS Philadelphia in Tripoli',
@@ -116,7 +116,7 @@ export const febFacts: Record<string, string[]> = {
     'On February 17, 1979, China invaded Vietnam in a brief but bloody border war',
     'On February 17, 1801, the US House of Representatives settled the tied 1800 election, choosing Thomas Jefferson',
     'On February 17, 1864, the H.L. Hunley became the first submarine to sink an enemy ship in combat',
-    'On February 17, 1964, India\'s Central Hindi Directorate officially celebrated Hindi Diwas to promote the language; the first official celebration was in September 1953',
+    "On February 17, 1964, India's Central Hindi Directorate officially celebrated Hindi Diwas to promote the language; the first official celebration was in September 1953",
   ],
   '2/18': [
     'On February 18, 1930, Pluto was discovered by Clyde Tombaugh at Lowell Observatory in Arizona',
@@ -129,7 +129,7 @@ export const febFacts: Record<string, string[]> = {
     'On February 19, 1473, Nicolaus Copernicus was born in Poland',
     'On February 19, 1942, President Roosevelt signed Executive Order 9066, leading to Japanese American internment',
     'On February 19, 1878, Thomas Edison patented the phonograph',
-    'On February 19, 2002, NASA\'s Mars Odyssey began mapping the surface of Mars',
+    "On February 19, 2002, NASA's Mars Odyssey began mapping the surface of Mars",
     'On February 19, 1630, Chhatrapati Shivaji Maharaj was born in Shivneri Fort, Pune — he would found the Maratha Empire',
   ],
   '2/20': [
@@ -165,7 +165,7 @@ export const febFacts: Record<string, string[]> = {
     'On February 24, 1920, the Nazi Party was founded in Munich, Germany',
     'On February 24, 1582, Pope Gregory XIII announced the Gregorian calendar by papal bull',
     'On February 24, 2022, Russia launched a full-scale invasion of Ukraine',
-    'On February 24, 1739, Nader Shah\'s Persian army sacked Delhi, looting the Peacock Throne and the Koh-i-Noor diamond from the Mughal treasury',
+    "On February 24, 1739, Nader Shah's Persian army sacked Delhi, looting the Peacock Throne and the Koh-i-Noor diamond from the Mughal treasury",
   ],
   '2/25': [
     'On February 25, 1836, Samuel Colt patented the first revolving firearm',
@@ -193,7 +193,7 @@ export const febFacts: Record<string, string[]> = {
     'On February 28, 1827, the Baltimore and Ohio Railroad (B&O) was chartered, the first US railroad',
     'On February 28, 1935, nylon was invented by Wallace Carothers at DuPont',
     'On February 28, 1986, Swedish Prime Minister Olof Palme was assassinated in Stockholm',
-    'February 28 is National Science Day in India, commemorating C.V. Raman\'s discovery of the Raman Effect in 1928, for which he won the Nobel Prize',
+    "February 28 is National Science Day in India, commemorating C.V. Raman's discovery of the Raman Effect in 1928, for which he won the Nobel Prize",
   ],
   '2/29': [
     'February 29 is Leap Day, occurring once every four years to correct the calendar',
@@ -201,6 +201,6 @@ export const febFacts: Record<string, string[]> = {
     'On February 29, 1940, Hattie McDaniel became the first African American to win an Academy Award (for Gone with the Wind)',
     'On February 29, 2004, Jean-Bertrand Aristide was ousted as President of Haiti in a coup',
     'The odds of being born on February 29 are approximately 1 in 1,461',
-    'On February 29, 1712, Sweden\'s calendar realignment affected European trade with India; the Mughal Empire was still a major global economic power',
+    "On February 29, 1712, Sweden's calendar realignment affected European trade with India; the Mughal Empire was still a major global economic power",
   ],
 };

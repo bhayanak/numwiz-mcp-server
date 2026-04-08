@@ -94,11 +94,11 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '313': [
     '313 AD the Edict of Milan legalized Christianity throughout the Roman Empire',
-    'Around 313 AD the Gupta Empire was beginning to emerge in northern India, ushering in India\'s classical Golden Age',
+    "Around 313 AD the Gupta Empire was beginning to emerge in northern India, ushering in India's classical Golden Age",
   ],
   '330': [
     '330 AD Constantine the Great refounded Byzantium as Constantinople, the new Roman capital',
-    'Around 330 AD Samudragupta was expanding the Gupta Empire across northern India, earning the title \'Indian Napoleon\'',
+    "Around 330 AD Samudragupta was expanding the Gupta Empire across northern India, earning the title 'Indian Napoleon'",
   ],
   '410': [
     '410 AD the Visigoths sacked Rome, symbolizing the decline of the Western Roman Empire',
@@ -107,14 +107,14 @@ export const yearFacts: Record<string, string[]> = {
   '476': [
     '476 AD the last Western Roman Emperor Romulus Augustulus was deposed, traditionally marking the Fall of Rome',
     '476 AD is often cited as the beginning of the Middle Ages in Europe',
-    'Around 476 AD the mathematician Aryabhata was born — he calculated the value of pi and proposed Earth\'s rotation on its axis',
+    "Around 476 AD the mathematician Aryabhata was born — he calculated the value of pi and proposed Earth's rotation on its axis",
   ],
   '570': [
     '570 AD is the traditional birth year of the Prophet Muhammad in Mecca',
     'Around 570 AD the Chalukya dynasty was rising to power in the Deccan region of India',
   ],
   '622': [
-    '622 AD Muhammad\'s migration (Hijra) from Mecca to Medina marks the start of the Islamic calendar',
+    "622 AD Muhammad's migration (Hijra) from Mecca to Medina marks the start of the Islamic calendar",
     'Around 622 AD the Pallava dynasty was constructing the magnificent Shore Temple and rock-cut monuments at Mahabalipuram, Tamil Nadu',
   ],
   '632': [
@@ -182,7 +182,7 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '1453': [
     '1453 Constantinople fell to the Ottoman Turks under Sultan Mehmed II, ending the Byzantine Empire',
-    '1453 the Hundred Years\' War between England and France ended',
+    "1453 the Hundred Years' War between England and France ended",
     'Around 1453 the Lodi dynasty was ruling the Delhi Sultanate; Bahlul Khan Lodi had founded the dynasty in 1451',
   ],
   '1492': [
@@ -201,10 +201,10 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '1517': [
     '1517 Martin Luther posted his 95 Theses on the church door in Wittenberg, sparking the Protestant Reformation',
-    'Around 1517 the Vijayanagara Empire was ruling southern India under Krishnadevaraya, considered one of India\'s greatest rulers',
+    "Around 1517 the Vijayanagara Empire was ruling southern India under Krishnadevaraya, considered one of India's greatest rulers",
   ],
   '1519': [
-    '1519 Ferdinand Magellan\'s expedition set out to circumnavigate the globe',
+    "1519 Ferdinand Magellan's expedition set out to circumnavigate the globe",
     '1519 Hernán Cortés arrived in Mexico and encountered the Aztec Empire',
     'Around 1519 Krishnadevaraya of the Vijayanagara Empire was at the height of his power, patronizing Telugu and Kannada literature',
   ],
@@ -249,7 +249,7 @@ export const yearFacts: Record<string, string[]> = {
   '1666': [
     '1666 the Great Fire of London destroyed much of the medieval city over four days',
     '1666 Isaac Newton discovered the composition of white light using a prism',
-    'In 1666 Shivaji escaped from Mughal Emperor Aurangzeb\'s detention in Agra in a famous daring escape hidden in fruit baskets',
+    "In 1666 Shivaji escaped from Mughal Emperor Aurangzeb's detention in Agra in a famous daring escape hidden in fruit baskets",
   ],
   '1687': [
     '1687 Newton published Principia Mathematica, laying the foundations of classical mechanics',
@@ -272,7 +272,7 @@ export const yearFacts: Record<string, string[]> = {
   '1769': [
     '1769 James Watt patented improvements to the steam engine that powered the Industrial Revolution',
     '1769 Napoleon Bonaparte was born in Corsica',
-    'In 1769 the Great Bengal Famine killed an estimated 10 million people — one-third of Bengal\'s population — under East India Company misrule',
+    "In 1769 the Great Bengal Famine killed an estimated 10 million people — one-third of Bengal's population — under East India Company misrule",
   ],
   '1776': [
     '1776 the United States Declaration of Independence was adopted on July 4',
@@ -283,7 +283,7 @@ export const yearFacts: Record<string, string[]> = {
   '1783': [
     '1783 the Treaty of Paris officially ended the American Revolutionary War',
     '1783 the Montgolfier brothers launched the first manned hot-air balloon flight in Paris',
-    'In 1783 Tipu Sultan became ruler of Mysore after his father Hyder Ali\'s death, continuing fierce resistance against the British',
+    "In 1783 Tipu Sultan became ruler of Mysore after his father Hyder Ali's death, continuing fierce resistance against the British",
   ],
   '1789': [
     '1789 the French Revolution began with the storming of the Bastille on July 14',
@@ -348,35 +348,35 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '1865': [
     '1865 the American Civil War ended and slavery was abolished by the 13th Amendment',
-    '1865 President Abraham Lincoln was assassinated at Ford\'s Theatre',
-    '1865 Lewis Carroll published Alice\'s Adventures in Wonderland',
-    'In 1865 the Calcutta and Bombay stock exchanges were established, laying the foundations of India\'s modern financial system',
+    "1865 President Abraham Lincoln was assassinated at Ford's Theatre",
+    "1865 Lewis Carroll published Alice's Adventures in Wonderland",
+    "In 1865 the Calcutta and Bombay stock exchanges were established, laying the foundations of India's modern financial system",
   ],
   '1869': [
     '1869 Dmitri Mendeleev published the first periodic table of elements',
     '1869 the Transcontinental Railroad was completed in the United States',
     '1869 the Suez Canal opened, connecting the Mediterranean to the Red Sea',
-    'On October 2, 1869, Mohandas Karamchand Gandhi was born in Porbandar, Gujarat — the future father of India\'s independence movement',
+    "On October 2, 1869, Mohandas Karamchand Gandhi was born in Porbandar, Gujarat — the future father of India's independence movement",
   ],
   '1876': [
     '1876 Alexander Graham Bell patented the telephone',
-    '1876 the Battle of the Little Bighorn (Custer\'s Last Stand) occurred',
+    "1876 the Battle of the Little Bighorn (Custer's Last Stand) occurred",
     'In 1876 the Great Indian Famine began, killing millions while the British continued exporting grain from India',
   ],
   '1879': [
     '1879 Thomas Edison demonstrated a practical incandescent light bulb',
     '1879 Albert Einstein was born in Ulm, Germany',
-    'In 1879 Sarojini Naidu, the \'Nightingale of India,\' was born in Hyderabad',
+    "In 1879 Sarojini Naidu, the 'Nightingale of India,' was born in Hyderabad",
   ],
   '1885': [
     '1885 Karl Benz built the first true automobile powered by an internal combustion engine',
     '1885 the Berlin Conference concluded, partitioning Africa among European powers',
-    'In 1885 the Indian National Congress was founded in Bombay — India\'s first modern political organization leading the independence movement',
+    "In 1885 the Indian National Congress was founded in Bombay — India's first modern political organization leading the independence movement",
   ],
   '1889': [
-    '1889 the Eiffel Tower was completed for the Paris World\'s Fair',
+    "1889 the Eiffel Tower was completed for the Paris World's Fair",
     '1889 Nintendo was founded in Kyoto, Japan as a playing card company',
-    'In 1889 Jawaharlal Nehru was born in Allahabad — he would become India\'s first Prime Minister and serve for 17 years',
+    "In 1889 Jawaharlal Nehru was born in Allahabad — he would become India's first Prime Minister and serve for 17 years",
   ],
   '1893': [
     '1893 New Zealand became the first country to grant women the right to vote',
@@ -386,7 +386,7 @@ export const yearFacts: Record<string, string[]> = {
     '1895 Wilhelm Röntgen discovered X-rays',
     '1895 the Lumière brothers held the first public film screening in Paris',
     '1895 Guglielmo Marconi made the first radio transmission',
-    'In 1895 the Presidency College in Calcutta was producing India\'s leading thinkers — Jagadish Chandra Bose was pioneering radio wave research',
+    "In 1895 the Presidency College in Calcutta was producing India's leading thinkers — Jagadish Chandra Bose was pioneering radio wave research",
   ],
   '1896': [
     '1896 the first modern Olympic Games were held in Athens, Greece',
@@ -400,9 +400,9 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '1900': [
     '1900 Max Planck introduced the quantum hypothesis, launching quantum physics',
-    '1900 the world\'s population reached approximately 1.6 billion',
+    "1900 the world's population reached approximately 1.6 billion",
     '1900 the Boxer Rebellion erupted in China against foreign influence',
-    'In 1900 India was the largest economy in Britain\'s empire, yet its wealth was being systematically drained — the Drain of Wealth theory',
+    "In 1900 India was the largest economy in Britain's empire, yet its wealth was being systematically drained — the Drain of Wealth theory",
   ],
   '1903': [
     '1903 the Wright brothers achieved the first powered, sustained, controlled airplane flight at Kitty Hawk',
@@ -421,7 +421,7 @@ export const yearFacts: Record<string, string[]> = {
   '1908': [
     '1908 Henry Ford introduced the Model T automobile',
     '1908 the Tunguska event flattened 2,000 km² of Siberian forest — likely a meteor airburst',
-    'In 1908 Khudiram Bose, aged 18, was hanged by the British — one of India\'s youngest revolutionary martyrs',
+    "In 1908 Khudiram Bose, aged 18, was hanged by the British — one of India's youngest revolutionary martyrs",
   ],
   '1912': [
     '1912 the RMS Titanic sank on its maiden voyage after hitting an iceberg, killing over 1,500 people',
@@ -434,7 +434,7 @@ export const yearFacts: Record<string, string[]> = {
     'In 1914 over 1 million Indian soldiers were deployed to fight for Britain in World War I, serving on multiple fronts',
   ],
   '1917': [
-    '1917 the Russian Revolution overthrew the Tsar and led to the world\'s first communist state',
+    "1917 the Russian Revolution overthrew the Tsar and led to the world's first communist state",
     '1917 the United States entered World War I',
     'In 1917 Mahatma Gandhi launched the Champaran Satyagraha — his first civil disobedience in India against indigo plantation exploitation',
   ],
@@ -446,7 +446,7 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '1919': [
     '1919 the Treaty of Versailles was signed, formally ending World War I',
-    '1919 Arthur Eddington\'s solar eclipse observations confirmed Einstein\'s general theory of relativity',
+    "1919 Arthur Eddington's solar eclipse observations confirmed Einstein's general theory of relativity",
     'In 1919 the Jallianwala Bagh massacre occurred in Amritsar — British troops killed hundreds of unarmed Indians, galvanizing the independence movement',
   ],
   '1920': [
@@ -459,7 +459,7 @@ export const yearFacts: Record<string, string[]> = {
     '1927 Charles Lindbergh completed the first solo non-stop transatlantic flight',
     '1927 the first "talkie" film, The Jazz Singer, was released',
     '1927 Werner Heisenberg formulated the uncertainty principle in quantum mechanics',
-    'In 1927 the Simon Commission was criticized in India as having no Indian members — it triggered \'Simon Go Back\' protests nationwide',
+    "In 1927 the Simon Commission was criticized in India as having no Indian members — it triggered 'Simon Go Back' protests nationwide",
   ],
   '1928': [
     '1928 Alexander Fleming discovered penicillin, launching the antibiotic revolution',
@@ -469,18 +469,18 @@ export const yearFacts: Record<string, string[]> = {
   '1929': [
     '1929 the Wall Street Crash triggered the Great Depression',
     '1929 Edwin Hubble proved that the universe is expanding',
-    'In 1929 the Indian National Congress declared \'Purna Swaraj\' (complete independence) as its goal at the Lahore session under Jawaharlal Nehru',
+    "In 1929 the Indian National Congress declared 'Purna Swaraj' (complete independence) as its goal at the Lahore session under Jawaharlal Nehru",
   ],
   '1933': [
     '1933 Adolf Hitler became Chancellor of Germany',
     '1933 Prohibition ended in the United States with the 21st Amendment',
-    'In 1933 Mahatma Gandhi began a 21-day fast to protest the treatment of India\'s Dalit communities under British colonial policies',
+    "In 1933 Mahatma Gandhi began a 21-day fast to protest the treatment of India's Dalit communities under British colonial policies",
   ],
   '1936': [
     '1936 the Spanish Civil War began, foreshadowing World War II',
     '1936 Jesse Owens won four gold medals at the Berlin Olympics',
     '1936 Alan Turing published his seminal paper on computability, introducing the concept of the Turing machine',
-    'In 1936 the All India Radio (AIR) was established, becoming India\'s national public radio broadcaster',
+    "In 1936 the All India Radio (AIR) was established, becoming India's national public radio broadcaster",
   ],
   '1939': [
     '1939 World War II began when Nazi Germany invaded Poland',
@@ -495,7 +495,7 @@ export const yearFacts: Record<string, string[]> = {
   '1944': [
     '1944 D-Day: Allied forces landed on the beaches of Normandy on June 6',
     '1944 the Bretton Woods Conference established the post-war international monetary system',
-    'In 1944 Subhas Chandra Bose\'s Indian National Army (INA) fought alongside Japanese forces in the Battle of Imphal and Kohima in northeastern India',
+    "In 1944 Subhas Chandra Bose's Indian National Army (INA) fought alongside Japanese forces in the Battle of Imphal and Kohima in northeastern India",
   ],
   '1945': [
     '1945 World War II ended after atomic bombs were dropped on Hiroshima and Nagasaki',
@@ -514,7 +514,7 @@ export const yearFacts: Record<string, string[]> = {
     '1948 Mahatma Gandhi was assassinated in New Delhi',
   ],
   '1949': [
-    '1949 the People\'s Republic of China was proclaimed by Mao Zedong',
+    "1949 the People's Republic of China was proclaimed by Mao Zedong",
     '1949 NATO was established as a Western military alliance',
     '1949 George Orwell published Nineteen Eighty-Four',
   ],
@@ -528,7 +528,7 @@ export const yearFacts: Record<string, string[]> = {
     '1952 the United States detonated the first hydrogen bomb',
     '1952 Queen Elizabeth II ascended to the throne of the United Kingdom',
     '1952 Jonas Salk developed the first effective polio vaccine',
-    'In 1952 India held its first general election — the world\'s largest democratic exercise at the time, with 173 million eligible voters',
+    "In 1952 India held its first general election — the world's largest democratic exercise at the time, with 173 million eligible voters",
   ],
   '1953': [
     '1953 Watson and Crick discovered the double helix structure of DNA',
@@ -540,7 +540,7 @@ export const yearFacts: Record<string, string[]> = {
     '1955 Rosa Parks refused to give up her bus seat in Montgomery, Alabama, sparking the Civil Rights Movement',
     '1955 Disneyland opened in Anaheim, California',
     '1955 Albert Einstein died in Princeton, New Jersey',
-    'In 1955 India\'s first Five Year Plan was completed, focusing on agriculture, dams, and irrigation to build the new nation',
+    "In 1955 India's first Five Year Plan was completed, focusing on agriculture, dams, and irrigation to build the new nation",
   ],
   '1957': [
     '1957 the Soviet Union launched Sputnik, the first artificial satellite, starting the Space Race',
@@ -550,7 +550,7 @@ export const yearFacts: Record<string, string[]> = {
   '1958': [
     '1958 NASA was established by the United States',
     '1958 the integrated circuit was independently invented by Jack Kilby and Robert Noyce',
-    'In 1958 India\'s first nuclear reactor, Apsara, went critical at the Bhabha Atomic Research Centre in Trombay, Mumbai',
+    "In 1958 India's first nuclear reactor, Apsara, went critical at the Bhabha Atomic Research Centre in Trombay, Mumbai",
   ],
   '1960': [
     '1960 the first laser was demonstrated by Theodore Maiman',
@@ -577,12 +577,12 @@ export const yearFacts: Record<string, string[]> = {
     '1964 the Civil Rights Act was signed into law in the United States',
     '1964 the Beatles arrived in America, launching the British Invasion of rock music',
     '1964 Nelson Mandela was sentenced to life imprisonment in South Africa',
-    'In 1964 India\'s first PM Jawaharlal Nehru died; Lal Bahadur Shastri succeeded him as Prime Minister',
+    "In 1964 India's first PM Jawaharlal Nehru died; Lal Bahadur Shastri succeeded him as Prime Minister",
   ],
   '1965': [
     '1965 the Voting Rights Act was signed into US law',
     '1965 Alexei Leonov performed the first spacewalk',
-    '1965 Gordon Moore published his observation (Moore\'s Law) predicting transistor doubling every two years',
+    "1965 Gordon Moore published his observation (Moore's Law) predicting transistor doubling every two years",
     'In 1965 India and Pakistan fought the Second Kashmir War — the Battle of Asal Uttar saw Indian forces destroy 97 Pakistani tanks',
   ],
   '1967': [
@@ -601,13 +601,13 @@ export const yearFacts: Record<string, string[]> = {
     '1969 Apollo 11 landed on the Moon — Neil Armstrong became the first person to walk on the lunar surface',
     '1969 ARPANET (the precursor to the internet) sent its first message',
     '1969 Woodstock music festival gathered 400,000 people in New York',
-    'In 1969 ISRO (Indian Space Research Organisation) was established, laying the groundwork for India\'s space program under Vikram Sarabhai',
+    "In 1969 ISRO (Indian Space Research Organisation) was established, laying the groundwork for India's space program under Vikram Sarabhai",
   ],
   '1970': [
     '1970 the first Earth Day was celebrated on April 22',
     '1970 the Beatles officially broke up',
     '1970 the Apollo 13 mission survived a near-fatal in-space emergency',
-    'In 1970 India launched its first sounding rocket from Thumba, signaling the start of India\'s indigenous space program',
+    "In 1970 India launched its first sounding rocket from Thumba, signaling the start of India's indigenous space program",
   ],
   '1971': [
     '1971 the microprocessor was invented by Intel (the Intel 4004)',
@@ -625,25 +625,25 @@ export const yearFacts: Record<string, string[]> = {
     '1973 the first handheld mobile phone call was made by Martin Cooper of Motorola',
     '1973 the Sydney Opera House was officially opened',
     '1973 the OPEC oil embargo caused a global energy crisis',
-    'In 1973 Project Tiger was launched in India to protect the Bengal tiger — India\'s national animal — from extinction',
+    "In 1973 Project Tiger was launched in India to protect the Bengal tiger — India's national animal — from extinction",
   ],
   '1975': [
     '1975 the Vietnam War ended with the fall of Saigon',
     '1975 Microsoft was founded by Bill Gates and Paul Allen',
     '1975 the Apollo-Soyuz mission marked the first international crewed space mission',
-    'In 1975 India\'s PM Indira Gandhi declared a State of Emergency, suspending civil liberties for 21 months until 1977',
+    "In 1975 India's PM Indira Gandhi declared a State of Emergency, suspending civil liberties for 21 months until 1977",
   ],
   '1976': [
     '1976 Apple Computer was founded by Steve Jobs and Steve Wozniak in a garage',
     '1976 the Viking 1 lander successfully touched down on Mars',
     '1976 the Concorde began regular supersonic passenger flights',
-    'In 1976 India launched the satellite Aryabhata (ISRO\'s first satellite) in collaboration with the Soviet Union',
+    "In 1976 India launched the satellite Aryabhata (ISRO's first satellite) in collaboration with the Soviet Union",
   ],
   '1977': [
     '1977 Star Wars was released and became a cultural phenomenon',
     '1977 the Voyager 1 and 2 probes were launched to explore the outer solar system',
     '1977 the Apple II personal computer was introduced',
-    'In 1977 the Indian Emergency ended; Indira Gandhi was defeated in elections by the Janata Party — India\'s first non-Congress government',
+    "In 1977 the Indian Emergency ended; Indira Gandhi was defeated in elections by the Janata Party — India's first non-Congress government",
   ],
   '1979': [
     '1979 the Iranian Revolution overthrew the Shah and established the Islamic Republic',
@@ -661,13 +661,13 @@ export const yearFacts: Record<string, string[]> = {
     '1981 the IBM PC was launched, setting the standard for personal computing',
     '1981 the first Space Shuttle mission (Columbia STS-1) launched',
     '1981 MTV began broadcasting, changing music and pop culture',
-    'In 1981 India launched its first communication satellite APPLE, advancing India\'s telecommunications capability',
+    "In 1981 India launched its first communication satellite APPLE, advancing India's telecommunications capability",
   ],
   '1983': [
     '1983 the internet was born when ARPANET adopted TCP/IP on January 1',
     '1983 the GPS satellite system was opened to civilian use after flight KAL-007 was shot down',
     '1983 the CD format was commercially launched, revolutionizing music',
-    'In 1983 India won the Cricket World Cup under Kapil Dev\'s captaincy, defeating the mighty West Indies — a defining moment in Indian sports',
+    "In 1983 India won the Cricket World Cup under Kapil Dev's captaincy, defeating the mighty West Indies — a defining moment in Indian sports",
   ],
   '1984': [
     '1984 Apple launched the Macintosh with its iconic 1984 Super Bowl commercial',
@@ -677,7 +677,7 @@ export const yearFacts: Record<string, string[]> = {
   '1986': [
     '1986 the Chernobyl nuclear disaster occurred in Ukraine',
     '1986 the Space Shuttle Challenger broke apart 73 seconds after launch, killing all 7 crew members',
-    '1986 Halley\'s Comet made its most recent approach to Earth',
+    "1986 Halley's Comet made its most recent approach to Earth",
     'In 1986 India launched INSAT-1B, expanding its satellite communications network across the subcontinent',
   ],
   '1989': [
@@ -707,21 +707,21 @@ export const yearFacts: Record<string, string[]> = {
     '1994 Nelson Mandela was elected President of South Africa in the first multiracial election',
     '1994 the Channel Tunnel (Chunnel) opened between England and France',
     '1994 Amazon was founded by Jeff Bezos as an online bookstore',
-    'In 1994 India\'s National Stock Exchange began operations, modernizing Indian financial markets with electronic trading',
+    "In 1994 India's National Stock Exchange began operations, modernizing Indian financial markets with electronic trading",
   ],
   '1995': [
     '1995 the DVD format was introduced',
     '1995 eBay, Java, and JavaScript were all launched',
     '1995 the Galileo spacecraft arrived at Jupiter',
-    'In 1995 India\'s IT industry was booming — Infosys was listed on NASDAQ, signaling India\'s global technology ambitions',
+    "In 1995 India's IT industry was booming — Infosys was listed on NASDAQ, signaling India's global technology ambitions",
   ],
   '1996': [
     '1996 Dolly the sheep became the first mammal cloned from an adult somatic cell',
     '1996 the first version of the Java programming language was released',
-    'In 1996 India hosted the Cricket World Cup, and Sachin Tendulkar was emerging as the world\'s greatest batsman',
+    "In 1996 India hosted the Cricket World Cup, and Sachin Tendulkar was emerging as the world's greatest batsman",
   ],
   '1997': [
-    '1997 IBM\'s Deep Blue defeated world chess champion Garry Kasparov',
+    "1997 IBM's Deep Blue defeated world chess champion Garry Kasparov",
     '1997 the Kyoto Protocol was adopted to combat climate change',
     '1997 the first Harry Potter book was published',
     'In 1997 Mother Teresa died in Kolkata, and India mourned the loss of one of its most beloved adopted citizens',
@@ -739,42 +739,42 @@ export const yearFacts: Record<string, string[]> = {
   ],
   '2000': [
     '2000 the Human Genome Project published its first draft of the human genetic code',
-    '2000 the world\'s population reached 6.1 billion',
+    "2000 the world's population reached 6.1 billion",
     '2000 the International Space Station received its first permanent crew',
-    'In 2000 India\'s IT sector was powering the Y2K remediation boom, establishing Bangalore as the \'Silicon Valley of India\'',
+    "In 2000 India's IT sector was powering the Y2K remediation boom, establishing Bangalore as the 'Silicon Valley of India'",
   ],
   '2001': [
     '2001 the September 11 terrorist attacks killed nearly 3,000 people in the United States',
-    '2001 Wikipedia was launched, becoming the world\'s largest encyclopedia',
+    "2001 Wikipedia was launched, becoming the world's largest encyclopedia",
     '2001 Apple introduced the iPod, transforming the music industry',
     'In 2001 the Indian Parliament was attacked by terrorists, bringing India and Pakistan to the brink of war',
   ],
   '2003': [
     '2003 the Human Genome Project was completed',
     '2003 the Space Shuttle Columbia disintegrated during reentry, killing all 7 crew members',
-    'In 2003 India launched its Chandrayaan lunar program, signaling India\'s ambitions to become a major space power',
+    "In 2003 India launched its Chandrayaan lunar program, signaling India's ambitions to become a major space power",
   ],
   '2004': [
     '2004 Facebook was launched from a Harvard dorm room',
     '2004 the Indian Ocean tsunami killed over 230,000 people across 14 countries',
-    '2004 NASA\'s Spirit and Opportunity rovers landed on Mars',
-    'In 2004 the Indian Ocean tsunami devastated India\'s southeastern coast, killing over 16,000 people in Tamil Nadu and the Andaman Islands',
+    "2004 NASA's Spirit and Opportunity rovers landed on Mars",
+    "In 2004 the Indian Ocean tsunami devastated India's southeastern coast, killing over 16,000 people in Tamil Nadu and the Andaman Islands",
   ],
   '2005': [
     '2005 YouTube was founded, eventually revolutionizing video content',
     '2005 Hurricane Katrina devastated New Orleans',
-    'In 2005 India\'s National Rural Employment Guarantee Act (NREGA) was passed, guaranteeing 100 days of wage employment per household',
+    "In 2005 India's National Rural Employment Guarantee Act (NREGA) was passed, guaranteeing 100 days of wage employment per household",
   ],
   '2006': [
     '2006 Twitter was launched',
     '2006 Pluto was reclassified as a dwarf planet by the International Astronomical Union',
     '2006 Nintendo released the Wii, popularizing motion-controlled gaming',
-    'In 2006 India\'s economy grew at 9.3%, making it one of the fastest-growing major economies in the world',
+    "In 2006 India's economy grew at 9.3%, making it one of the fastest-growing major economies in the world",
   ],
   '2007': [
     '2007 Apple released the first iPhone, transforming mobile computing',
     '2007 the Kindle e-reader was launched by Amazon',
-    'In 2007 Pratibha Patil became India\'s first woman President',
+    "In 2007 Pratibha Patil became India's first woman President",
   ],
   '2008': [
     '2008 the global financial crisis began with the collapse of Lehman Brothers',
@@ -785,7 +785,7 @@ export const yearFacts: Record<string, string[]> = {
   '2009': [
     '2009 Bitcoin was launched, creating the first decentralized cryptocurrency',
     '2009 the H1N1 swine flu pandemic was declared by the WHO',
-    'In 2009 India launched Chandrayaan-1\'s Moon Impact Probe, which discovered water on the lunar surface',
+    "In 2009 India launched Chandrayaan-1's Moon Impact Probe, which discovered water on the lunar surface",
   ],
   '2010': [
     '2010 the Deepwater Horizon oil spill became the largest accidental marine oil spill in history',
@@ -796,8 +796,8 @@ export const yearFacts: Record<string, string[]> = {
   '2011': [
     '2011 Osama bin Laden was killed by US Navy SEALs in Pakistan',
     '2011 the Fukushima nuclear disaster occurred after a massive earthquake and tsunami in Japan',
-    '2011 NASA\'s Space Shuttle program ended after 30 years',
-    'In 2011 India won the Cricket World Cup on home soil under MS Dhoni\'s captaincy — their first World Cup win since 1983',
+    "2011 NASA's Space Shuttle program ended after 30 years",
+    "In 2011 India won the Cricket World Cup on home soil under MS Dhoni's captaincy — their first World Cup win since 1983",
   ],
   '2012': [
     '2012 the Higgs boson was discovered at CERN, confirming the Standard Model of particle physics',
@@ -806,15 +806,15 @@ export const yearFacts: Record<string, string[]> = {
     'In 2012 India launched the Mars Orbiter Mission (Mangalyaan), becoming the first Asian nation to reach Mars orbit in 2014',
   ],
   '2014': [
-    '2014 the Rosetta mission\'s Philae lander touched down on a comet for the first time in history',
+    "2014 the Rosetta mission's Philae lander touched down on a comet for the first time in history",
     '2014 the ice bucket challenge went viral and raised $115 million for ALS research',
-    'In 2014 India\'s Mars Orbiter Mission (Mangalyaan) successfully entered Martian orbit — the first nation to succeed on its first attempt',
+    "In 2014 India's Mars Orbiter Mission (Mangalyaan) successfully entered Martian orbit — the first nation to succeed on its first attempt",
   ],
   '2015': [
     '2015 the Paris Climate Agreement was adopted by 196 nations',
-    '2015 LIGO detected gravitational waves for the first time, confirming Einstein\'s prediction',
-    '2015 NASA\'s New Horizons probe flew by Pluto, revealing stunning surface details',
-    'In 2015 India launched a record 104 satellites in a single mission on PSLV-C37, showcasing ISRO\'s growing capabilities',
+    "2015 LIGO detected gravitational waves for the first time, confirming Einstein's prediction",
+    "2015 NASA's New Horizons probe flew by Pluto, revealing stunning surface details",
+    "In 2015 India launched a record 104 satellites in a single mission on PSLV-C37, showcasing ISRO's growing capabilities",
   ],
   '2016': [
     '2016 AlphaGo defeated world champion Go player Lee Sedol, a milestone for AI',
@@ -828,43 +828,43 @@ export const yearFacts: Record<string, string[]> = {
     'In 2017 India introduced the Goods and Services Tax (GST), the most significant tax reform since independence',
   ],
   '2018': [
-    '2018 the Parker Solar Probe launched to study the Sun\'s corona at unprecedented proximity',
+    "2018 the Parker Solar Probe launched to study the Sun's corona at unprecedented proximity",
     '2018 gene-edited babies were controversially announced in China using CRISPR',
-    'In 2018 India\'s Supreme Court decriminalized homosexuality by striking down Section 377, a colonial-era law',
+    "In 2018 India's Supreme Court decriminalized homosexuality by striking down Section 377, a colonial-era law",
   ],
   '2019': [
     '2019 the first image of a black hole was captured by the Event Horizon Telescope',
     '2019 COVID-19 emerged in Wuhan, China near the end of the year',
-    '2019 the world\'s population reached 7.7 billion',
-    'In 2019 India revoked Article 370, removing Jammu and Kashmir\'s special autonomous status',
+    "2019 the world's population reached 7.7 billion",
+    "In 2019 India revoked Article 370, removing Jammu and Kashmir's special autonomous status",
   ],
   '2020': [
     '2020 the COVID-19 pandemic shut down much of the world',
     '2020 SpaceX Crew Dragon became the first commercial spacecraft to carry astronauts to the ISS',
     '2020 multiple COVID-19 vaccines were developed in record time using mRNA technology',
-    'In 2020 India became the world\'s largest vaccine manufacturer, producing COVID-19 vaccines for global distribution',
+    "In 2020 India became the world's largest vaccine manufacturer, producing COVID-19 vaccines for global distribution",
   ],
   '2021': [
     '2021 the James Webb Space Telescope was launched on Christmas Day',
     '2021 the Mars Ingenuity helicopter achieved the first powered flight on another planet',
     '2021 global Covid vaccine rollout began worldwide',
-    'In 2021 Indian farmers won the repeal of three controversial farm laws after a year-long protest at Delhi\'s borders',
+    "In 2021 Indian farmers won the repeal of three controversial farm laws after a year-long protest at Delhi's borders",
   ],
   '2022': [
     '2022 the James Webb Space Telescope released its first stunning deep field images',
     '2022 Russia invaded Ukraine, triggering the largest European conflict since WWII',
     '2022 ChatGPT was released by OpenAI, sparking a global AI revolution',
-    'In 2022 India surpassed the UK to become the world\'s fifth-largest economy',
+    "In 2022 India surpassed the UK to become the world's fifth-largest economy",
   ],
   '2023': [
-    '2023 India\'s Chandrayaan-3 successfully landed near the Moon\'s south pole',
+    "2023 India's Chandrayaan-3 successfully landed near the Moon's south pole",
     '2023 generative AI transformed industries worldwide as large language models went mainstream',
-    '2023 the world\'s population reached 8 billion',
+    "2023 the world's population reached 8 billion",
   ],
   '2024': [
     '2024 a total solar eclipse crossed North America in April',
     '2024 artificial intelligence continued to advance rapidly across every industry',
     '2024 the Voyager 1 probe regained contact with Earth after months of transmitting garbled data',
-    'In 2024 India\'s population surpassed 1.44 billion, and ISRO announced plans for the Gaganyaan crewed space mission',
+    "In 2024 India's population surpassed 1.44 billion, and ISRO announced plans for the Gaganyaan crewed space mission",
   ],
 };

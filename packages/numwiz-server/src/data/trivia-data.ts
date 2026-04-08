@@ -7,7 +7,7 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '1': [
     '1 is the atomic number of hydrogen, the lightest and most abundant element in the universe',
-    '1 is the number of rings to rule them all in J.R.R. Tolkien\'s Lord of the Rings',
+    "1 is the number of rings to rule them all in J.R.R. Tolkien's Lord of the Rings",
     '1 is the number of bones in the human stapes, the smallest bone in the body',
     '1 is the loneliest number according to the 1969 hit song by Harry Nilsson',
   ],
@@ -19,7 +19,7 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '3': [
     '3 is the number of primary colors in both the RGB and RYB color models',
-    '3 is the number of bones in each human ear\'s ossicle chain',
+    "3 is the number of bones in each human ear's ossicle chain",
     '3 is the number of laws of motion formulated by Isaac Newton',
     '3 is the typical number of rings in a circus',
   ],
@@ -50,7 +50,7 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '8': [
     '8 is the number of tentacles on an octopus',
-    '8 is the number of planets in our solar system since Pluto\'s reclassification in 2006',
+    "8 is the number of planets in our solar system since Pluto's reclassification in 2006",
     '8 is considered the luckiest number in Chinese culture',
     '8 is the number of bits in a byte',
   ],
@@ -137,7 +137,7 @@ export const triviaFacts: Record<string, string[]> = {
     '22 is the number of players on the field during a soccer match (11 per team)',
     '22 is the number of letters in the Hebrew alphabet',
     '22 is the number of Major Arcana cards in a tarot deck',
-    '22 is the catch in Joseph Heller\'s novel Catch-22',
+    "22 is the catch in Joseph Heller's novel Catch-22",
   ],
   '23': [
     '23 is the jersey number most associated with Michael Jordan',
@@ -167,7 +167,7 @@ export const triviaFacts: Record<string, string[]> = {
     '27 is the age at which many famous musicians have died, known as the 27 Club (Hendrix, Joplin, Morrison, Cobain, Winehouse)',
     '27 is the number of books in the New Testament',
     '27 is the total number of bones in one human hand',
-    '27 is the number of cubes in a 3x3x3 Rubik\'s Cube',
+    "27 is the number of cubes in a 3x3x3 Rubik's Cube",
   ],
   '28': [
     '28 is the number of days in the shortest month, February (in non-leap years)',
@@ -207,7 +207,7 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '34': [
     '34 is the jersey number of legendary running back Walter Payton',
-    '34 is the jersey number of Shaquille O\'Neal with the Lakers',
+    "34 is the jersey number of Shaquille O'Neal with the Lakers",
     '34 is the atomic number of selenium',
   ],
   '35': [
@@ -247,7 +247,7 @@ export const triviaFacts: Record<string, string[]> = {
     '41 is the atomic number of niobium',
   ],
   '42': [
-    '42 is the Answer to the Ultimate Question of Life, the Universe, and Everything in Douglas Adams\' Hitchhiker\'s Guide to the Galaxy',
+    "42 is the Answer to the Ultimate Question of Life, the Universe, and Everything in Douglas Adams' Hitchhiker's Guide to the Galaxy",
     '42 is the number of laws of cricket',
     '42 is the jersey number retired by all Major League Baseball teams in honor of Jackie Robinson',
     '42 is the angle in degrees at which a rainbow appears relative to the direction opposite the sun',
@@ -349,7 +349,7 @@ export const triviaFacts: Record<string, string[]> = {
     '60 is the number of games in an NBA regular season for each team in a conference',
   ],
   '61': [
-    '61 is the number of home runs Roger Maris hit in 1961, breaking Babe Ruth\'s record',
+    "61 is the number of home runs Roger Maris hit in 1961, breaking Babe Ruth's record",
     '61 is the country calling code for Australia',
     '61 is the atomic number of promethium',
   ],
@@ -411,7 +411,7 @@ export const triviaFacts: Record<string, string[]> = {
     '72 is the number of the Rule of 72 used to estimate investment doubling time',
   ],
   '73': [
-    '73 is Sheldon Cooper\'s favorite number on The Big Bang Theory because it is the 21st prime, and 21 is 7×3',
+    "73 is Sheldon Cooper's favorite number on The Big Bang Theory because it is the 21st prime, and 21 is 7×3",
     '73 is the atomic number of tantalum',
     '73 is the jersey number of many NFL offensive linemen',
   ],
@@ -422,11 +422,11 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '75': [
     '75 is the diamond jubilee celebration year',
-    '75 is the percentage that water covers the Earth\'s surface (approximately)',
-    '75 is the atomic number of rhenium, one of the rarest elements in Earth\'s crust',
+    "75 is the percentage that water covers the Earth's surface (approximately)",
+    "75 is the atomic number of rhenium, one of the rarest elements in Earth's crust",
   ],
   '76': [
-    '76 is the number associated with the Spirit of \'76 in American independence lore',
+    "76 is the number associated with the Spirit of '76 in American independence lore",
     '76 is the name of the Philadelphia 76ers NBA team',
     '76 is the atomic number of osmium, the densest naturally occurring element',
   ],
@@ -446,7 +446,7 @@ export const triviaFacts: Record<string, string[]> = {
     '79 is the country calling code assigned to several Central Asian nations',
   ],
   '80': [
-    '80 is the number of days it took Phileas Fogg to travel Around the World in Jules Verne\'s novel',
+    "80 is the number of days it took Phileas Fogg to travel Around the World in Jules Verne's novel",
     '80 is the default port number for HTTP web traffic',
     '80 is the atomic number of mercury, the liquid metal',
   ],
@@ -587,7 +587,7 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '120': [
     '120 is the number of crayons in the largest standard Crayola box',
-    '120 is the number of degrees in an angle of an equilateral triangle\'s supplement',
+    "120 is the number of degrees in an angle of an equilateral triangle's supplement",
     '120 is the maximum age in years reached by Jeanne Calment, the oldest verified person (actually 122)',
   ],
   '128': [
@@ -628,7 +628,7 @@ export const triviaFacts: Record<string, string[]> = {
   '200': [
     '200 is the HTTP status code for a successful web request ("OK")',
     '200 is the number of dollars for passing GO in Monopoly',
-    '200 is the number of laps in the Daytona 500 (sort of — it\'s 200 laps of the 2.5 mile track)',
+    "200 is the number of laps in the Daytona 500 (sort of — it's 200 laps of the 2.5 mile track)",
   ],
   '206': [
     '206 is the total number of bones in an adult human body',
@@ -708,7 +708,7 @@ export const triviaFacts: Record<string, string[]> = {
     '440 is the number of a famous Mopar engine displacement in cubic inches (440 Magnum)',
   ],
   '451': [
-    '451 is the temperature in Fahrenheit at which paper allegedly ignites, from Ray Bradbury\'s Fahrenheit 451',
+    "451 is the temperature in Fahrenheit at which paper allegedly ignites, from Ray Bradbury's Fahrenheit 451",
     '451 is the HTTP status code for content unavailable for legal reasons',
   ],
   '500': [
@@ -717,13 +717,10 @@ export const triviaFacts: Record<string, string[]> = {
     '500 is the number of sheets of paper in a ream',
   ],
   '501': [
-    '501 is the model number of the iconic Levi\'s 501 jeans',
+    "501 is the model number of the iconic Levi's 501 jeans",
     '501 is the standard starting score in a common darts game format',
   ],
-  '512': [
-    '512 is 2 to the 9th power',
-    '512 is the area code for Austin, Texas',
-  ],
+  '512': ['512 is 2 to the 9th power', '512 is the area code for Austin, Texas'],
   '555': [
     '555 is the prefix used for fictional phone numbers in American movies and TV shows',
     '555 is the number of a popular timer integrated circuit (the NE555)',
@@ -824,12 +821,12 @@ export const triviaFacts: Record<string, string[]> = {
     '1776 is one of the most iconic numbers in American history',
   ],
   '1984': [
-    '1984 is the year of George Orwell\'s dystopian novel Nineteen Eighty-Four',
+    "1984 is the year of George Orwell's dystopian novel Nineteen Eighty-Four",
     '1984 is the year Apple launched the Macintosh with its famous Super Bowl commercial',
     '1984 is the year the first Transformers and Teenage Mutant Ninja Turtles appeared',
   ],
   '2001': [
-    '2001 is the year of Stanley Kubrick\'s iconic film 2001: A Space Odyssey (the setting)',
+    "2001 is the year of Stanley Kubrick's iconic film 2001: A Space Odyssey (the setting)",
     '2001 is the year Wikipedia launched',
     '2001 is the year Apple introduced the first iPod',
   ],
@@ -852,7 +849,7 @@ export const triviaFacts: Record<string, string[]> = {
   ],
   '8848': [
     '8848 is the height of Mount Everest in meters (revised to 8849 in 2020)',
-    '8848 is the elevation that defines the highest point on Earth\'s surface',
+    "8848 is the elevation that defines the highest point on Earth's surface",
   ],
   '10000': [
     '10000 is the number of hours Malcolm Gladwell suggests are needed to master a skill',
